@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News",Aaj Tak
+https://re.fredflix.fun/Zee5/live.php?id=2105503/AAJTAKHDNEWSELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png" group-title="News",Zee News
+https://re.fredflix.fun/Zee5/live.php?id=2105510/ZEENEWSELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png" group-title="News",India Today
+https://re.fredflix.fun/Zee5/live.php?id=2105501/INDIATODAYHDNEWSELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="News",Good News Today
+https://re.fredflix.fun/Zee5/live.php?id=2105499/GOODNEWSTODAYHDNEWSELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies",&Prive HD
+https://re.fredflix.fun/Zee5/live.php?id=2104969/AndPriveHDELENEW&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="Punjabi",Zee Punjab Haryana Himachal Pradesh
+https://re.fredflix.fun/Zee5/live.php?id=2105493/ZEEPUHRHIELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="News",Zee Business
+https://re.fredflix.fun/Zee5/live.php?id=2105509/ZEEBUSINESSELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" group-title="Gujarati",Zee 24 Kalak
+https://re.fredflix.fun/Zee5/live.php?id=2105497/ZEE24KALAKELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="Marathi",Zee 24 Taas
+https://re.fredflix.fun/Zee5/live.php?id=2105498/ZEE24TAASNEWSNEWELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="News",WION
+https://re.fredflix.fun/Zee5/live.php?id=2105506/WIONNEWSELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News",Zee Bharat
+https://re.fredflix.fun/Zee5/live.php?id=2105262/ZEEBHARATNEWSNEWELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="News",Zee Bihar Jharkhand
+https://re.fredflix.fun/Zee5/live.php?id=2105492/ZEEBHJKELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="Bengali",Zee 24 Ghanta
+https://re.fredflix.fun/Zee5/live.php?id=2105511/ZEE24GHANTAELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="News",Zee Delhi NCR Haryana
+https://re.fredflix.fun/Zee5/live.php?id=2105507/ZEEDELNCRHRNEWSNEWELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="News",Zee Rajasthan News
+https://re.fredflix.fun/Zee5/live.php?id=2105496/ZEERAJASTHANELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="News",Zee Madhya Pradesh Chhattisgarh
+https://re.fredflix.fun/Zee5/live.php?id=2105495/ZEEMPCGELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Entertainment",Big Magic
+https://re.fredflix.fun/Zee5/live.php?id=2105176/BigMagicELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png" group-title="Entertainment",Zing
+https://re.fredflix.fun/Zee5/live.php?id=2105532/ZingELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD
+https://re.fredflix.fun/Zee5/live.php?id=2105531/ZeeTVHDMSLELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",&TV HD
+https://re.fredflix.fun/Zee5/live.php?id=2105504/AndTVHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Marathi",Zee Marathi HD
+https://re.fredflix.fun/Zee5/live.php?id=2105520/ZeeMarathiHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Marathi",Zee Yuva
+https://re.fredflix.fun/Zee5/live.php?id=2105533/ZeeYuvaELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment",Zee Café HD
+https://re.fredflix.fun/Zee5/live.php?id=2105539/ZeecafeHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png" group-title="Movies",h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",Zee Anmol Cinema 2
+https://re.fredflix.fun/Zee5/live.php?id=2105171/ZeeGangaELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" group-title="Tamil",Zee Tamil HD
+https://re.fredflix.fun/Zee5/live.php?id=2105530/ZeeTamilHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png" group-title="Telugu",Zee Telugu HD
+https://re.fredflix.fun/Zee5/live.php?id=2105545/ZeeTeluguHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png" group-title="Kannada",Zee Kannada HD
+https://re.fredflix.fun/Zee5/live.php?id=2105555/ZeeKannadaHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png" group-title="Malayalam",Zee Keralam HD
+https://re.fredflix.fun/Zee5/live.php?id=2105529/ZeeKeralamHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" group-title="Bengali",Zee Bangla HD
+https://re.fredflix.fun/Zee5/live.php?id=2105554/ZeeBanglaHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Movies",Zee Anmol
+https://re.fredflix.fun/Zee5/live.php?id=2105526/ZeeAnmolELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD
+https://re.fredflix.fun/Zee5/live.php?id=2105540/ZeeCinemaHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png" group-title="Telugu",Zee Cinemalu HD
+https://re.fredflix.fun/Zee5/live.php?id=2105544/ZeeCinemaluHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",&Pictures HD
+https://re.fredflix.fun/Zee5/live.php?id=2105174/ANDPicturesHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Marathi",Zee Talkies HD
+https://re.fredflix.fun/Zee5/live.php?id=2105519/ZeeTalkiesHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="Bengali",Zee Bangla Cinema
+https://re.fredflix.fun/Zee5/live.php?id=2105524/ZeeBanglaCinemaELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi.png" group-title="Punjabi",Zee Punjabi
+https://re.fredflix.fun/Zee5/live.php?id=2105170/ZeePunjabiELE&e=.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="Movies",Zee Anmol Cinema
+https://re.fredflix.fun/Zee5/live.php?id=2105525/ZeeAnmolCinemaELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies",Zee Bollywood
+https://re.fredflix.fun/Zee5/live.php?id=2105173/ZeeBollywoodELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies",&Pictures
+https://re.fredflix.fun/Zee5/live.php?id=2105528/ANDPicturesELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies",Zee Cinema
+https://re.fredflix.fun/Zee5/live.php?id=2105552/ZeeCinemaELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies",Zee Action
+https://re.fredflix.fun/Zee5/live.php?id=2105527/ZeeActionELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies",&flix HD
+https://re.fredflix.fun/Zee5/live.php?id=2105517/AndFlixHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png" group-title="Spiritual",Sanskar TV
+https://re.fredflix.fun/Zee5/live.php?id=2105500/SanskarTVMSLELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="Entertainment",Zee TV
+https://re.fredflix.fun/Zee5/live.php?id=2105536/ZeeTVELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="Entertainment",Zee Salaam
+https://re.fredflix.fun/Zee5/live.php?id=2105104/ZEESALAAMELE&e=.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="Odia",Zee Sarthak
+https://re.fredflix.fun/Zee5/live.php?id=2105541/ZeeSarthakELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="News",Zee News Uttar Pradesh Uttrakhand
+https://re.fredflix.fun/Zee5/live.php?id=2105494/ZEEUPUKELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Movies",Zee Classic
+https://re.fredflix.fun/Zee5/live.php?id=2105547/ZeeClassicELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png" group-title="Movies",&xplorHD
+https://re.fredflix.fun/Zee5/live.php?id=2105553/AndxploreHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png" group-title="Entertainment",Zee Biskope
+https://re.fredflix.fun/Zee5/live.php?id=2105522/ZeeBiskopeELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png" group-title="Tamil",Zee Thirai
+https://re.fredflix.fun/Zee5/live.php?id=2105172/ZeeThiraiELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Entertainment",Zee Zest HD
+https://re.fredflix.fun/Zee5/live.php?id=2105513/ZeeZestHDELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Picchar_SD.png" group-title="Kannada",Zee Picchar
+https://re.fredflix.fun/Zee5/live.php?id=2105542/ZeePiccharELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png" group-title="Marathi",Zee Chitramandir
+https://re.fredflix.fun/Zee5/live.php?id=2105261/ZEECHITRAMANDIRELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="Kannada",Zee Kannada
+https://re.fredflix.fun/Zee5/live.php?id=2105177/ZeeKannadaELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="Bengali",Zee Bangla
+https://re.fredflix.fun/Zee5/live.php?id=2105260/ZeeBanglaELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Telugu",Zee Telugu
+https://re.fredflix.fun/Zee5/live.php?id=2105179/ZeeTeluguELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Marathi",Zee Marathi
+https://re.fredflix.fun/Zee5/live.php?id=2105543/ZeeMarathiELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Tamil",Zee Tamil
+https://re.fredflix.fun/Zee5/live.php?id=2105537/ZeeTamilELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Telugu",Zee Cinemalu
+https://re.fredflix.fun/Zee5/live.php?id=2105548/ZeeCinemalauELE&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi",Zee Talkies
+https://re.fredflix.fun/Zee5/live.php?id=2105538/ZeeTalkiesELE&e=.m3u8
