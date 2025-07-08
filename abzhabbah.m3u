@@ -36,8 +36,8 @@ http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-logo="https://i.imgur.com/7Kl95WA.png" group-title="News",AKD Calcutta News (540p) [Geo-blocked]
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
-#EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV (720p)
-https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://shorturl.at/Z1occ" group-title="Entertainment",Akash 8 TV
+https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@India" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV India (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelindia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Animax.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax [Geo-blocked]
