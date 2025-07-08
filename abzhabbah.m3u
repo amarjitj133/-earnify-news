@@ -300,8 +300,6 @@ http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KCLTV.in" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Entertainment",KCL TV (720p)
 https://kcltv.livebox.co.in/kclhls/live.m3u8
-#EXTINF:-1 tvg-id="KeralaVision.in" tvg-logo="https://i.imgur.com/SWNjyyp.png" group-title="Entertainment",Kerala Vision (720p)
-https://yupplivefragcp3.yuppcdn.net/260423/smil:keralavision.smil/index.m3u8
 #EXTINF:-1 tvg-id="Keralabhumi.in" tvg-logo="https://i.imgur.com/05BslNS.png" group-title="General",Keralabhumi (576p)
 http://103.153.92.157:11037/hls/kbh.m3u8
 #EXTINF:-1 tvg-id="KhabarFast.in" tvg-logo="https://i.imgur.com/l5Li5Pd.png" group-title="News",Khabar Fast (720p) [Not 24/7]
