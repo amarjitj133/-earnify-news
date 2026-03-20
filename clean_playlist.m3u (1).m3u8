@@ -1,0 +1,885 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4tv_news.tamil" tvg-name="4TV News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2F4_TV.png" tvg-type="News" tvg-language="Tamil" group-title="News",4TV News
+https://jiocdn.tulnit.fun/mm/play.php?id=f011c0fd854948d1955f67800efb0bd3
+#EXTINF:-1 tvg-id="6_tv_telugu.tamil" tvg-name="6 TV Telugu" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fl3EcRnZ.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",6 TV Telugu
+https://jiocdn.tulnit.fun/mm/play.php?id=cd98ef0a161221d2a31951fcbf3eada7
+#EXTINF:-1 tvg-id="7s_music.tamil" tvg-name="7S Music" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FzDiIhdN.png" tvg-type="Music" tvg-language="Tamil" group-title="Music",7S Music
+https://jiocdn.tulnit.fun/mm/play.php?id=d4184cf3295b170739200992e6adbd62
+#EXTINF:-1 tvg-id="9x_jalwa.tamil" tvg-name="9X Jalwa" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_9X_JALWA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Music" tvg-language="Tamil" group-title="Music",9X Jalwa
+https://jiocdn.tulnit.fun/mm/play.php?id=273967142fc35346b944dac932d0d5f1
+#EXTINF:-1 tvg-id="9x_jhakaas.tamil" tvg-name="9X Jhakaas" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs90012_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Music" tvg-language="Tamil" group-title="Music",9X Jhakaas
+https://jiocdn.tulnit.fun/mm/play.php?id=30b701e86bbc9765e0a0d40bf219a48f
+#EXTINF:-1 tvg-id="9x_tashan.tamil" tvg-name="9X Tashan" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_9X_TASHAN%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Music" tvg-language="Tamil" group-title="Music",9X Tashan
+https://jiocdn.tulnit.fun/mm/play.php?id=2880b7ab1ff3dd1e953170e0f6f9b6b1
+#EXTINF:-1 tvg-id="10_tv.tamil" tvg-name="10 TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_10TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",10 TV
+https://jiocdn.tulnit.fun/mm/play.php?id=6070f0c2c0328964ca47561639826fcd
+#EXTINF:-1 tvg-id="22scope_news.tamil" tvg-name="22Scope News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2F22Scope_News.png" tvg-type="News" tvg-language="Tamil" group-title="News",22Scope News
+https://jiocdn.tulnit.fun/mm/play.php?id=4a33fbb8d20268037664649d68bcf121
+#EXTINF:-1 tvg-id="24_news.tamil" tvg-name="24 News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fsund-images.sunnxt.com%2F202222%2F300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png" tvg-type="News" tvg-language="Tamil" group-title="News",24 News
+https://jiocdn.tulnit.fun/mm/play.php?id=49f6dcc38ef016eb0ebb64642ab062fd
+#EXTINF:-1 tvg-id="99tv.tamil" tvg-name="99TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FdZA4gel.png" tvg-type="News" tvg-language="Tamil" group-title="News",99TV
+https://jiocdn.tulnit.fun/mm/play.php?id=868d5f53e767d5de3b1bb669b27304ca
+#EXTINF:-1 tvg-id="aadinath_tv.tamil" tvg-name="Aadinath TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_AADINATH_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Aadinath TV
+https://jiocdn.tulnit.fun/mm/play.php?id=3148ae9afb34807757ea5a9e0396f907
+#EXTINF:-1 tvg-id="aaj_tak.tamil" tvg-name="Aaj Tak" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_AAJ_TAK%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Aaj Tak
+https://jiocdn.tulnit.fun/mm/play.php?id=df8763719fc71b7b956c68ee610cd688
+#EXTINF:-1 tvg-id="aamar_bangla.tamil" tvg-name="Aamar Bangla" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FAmaar_Bangla.png" tvg-type="News" tvg-language="Tamil" group-title="News",Aamar Bangla
+https://jiocdn.tulnit.fun/mm/play.php?id=2f167aa5a03e7c481b5abaaebdc059d8
+#EXTINF:-1 tvg-id="aaseervatham_tv.tamil" tvg-name="Aaseervatham TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FGlfrYs7.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Aaseervatham TV
+https://jiocdn.tulnit.fun/mm/play.php?id=43dde7fb3c0fb4da63514e489957b12e
+#EXTINF:-1 tvg-id="aastha.tamil" tvg-name="Aastha" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FIqgrV92.png" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",Aastha
+https://jiocdn.tulnit.fun/mm/play.php?id=284a3f3e14ed5758a072d9ba5ede6d81
+#EXTINF:-1 tvg-id="aastha_bhajan.tamil" tvg-name="Aastha Bhajan" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142514_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Aastha Bhajan
+https://jiocdn.tulnit.fun/mm/play.php?id=8cdb3f9aad1fe995e0eadea1950b463d
+#EXTINF:-1 tvg-id="aastha_gujarati.tamil" tvg-name="Aastha Gujarati" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FAastha_Tamil.png" tvg-type="News" tvg-language="Tamil" group-title="News",Aastha Gujarati
+https://jiocdn.tulnit.fun/mm/play.php?id=9d7ef5773ededf9b0a46127d65815afc
+#EXTINF:-1 tvg-id="aastha_kannada.tamil" tvg-name="Aastha Kannada" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs158134_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Aastha Kannada
+https://jiocdn.tulnit.fun/mm/play.php?id=3d1f59db8e2925ae6be794d730d7636a
+#EXTINF:-1 tvg-id="aastha_prime_1.tamil" tvg-name="Aastha Prime 1" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FLyWSMJS.png" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",Aastha Prime 1
+https://jiocdn.tulnit.fun/mm/play.php?id=10193117fd736e2bbd31acb0a34df1c7
+#EXTINF:-1 tvg-id="aastha_tamil.tamil" tvg-name="Aastha Tamil" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FYQK9ewf.png" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",Aastha Tamil
+https://jiocdn.tulnit.fun/mm/play.php?id=5df405b9952432a49d03156ef724fbba
+#EXTINF:-1 tvg-id="aastha_telugu.tamil" tvg-name="Aastha Telugu" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs158136_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",Aastha Telugu
+https://jiocdn.tulnit.fun/mm/play.php?id=7a459da5f746c0e2ccc9ad4af60a5bde
+#EXTINF:-1 tvg-id="abn_tv_india_540p.tamil" tvg-name="ABN TV India (540p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FVcZn60X.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",ABN TV India (540p
+https://jiocdn.tulnit.fun/mm/play.php?id=14ddf2d10ec2f0932ded8f7d5a96ce33
+#EXTINF:-1 tvg-id="abp_ananda.tamil" tvg-name="ABP Ananda" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142518_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",ABP Ananda
+https://jiocdn.tulnit.fun/mm/play.php?id=593acce060a3882ff58046cb39bbe8ac
+#EXTINF:-1 tvg-id="abp_asmita.tamil" tvg-name="ABP Asmita" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F20%2FABP_Asmita_logo.svg%2F500px-ABP_Asmita_logo.svg.png" tvg-type="News" tvg-language="Tamil" group-title="News",ABP Asmita
+https://jiocdn.tulnit.fun/mm/play.php?id=4dc7a6eb23ff9446d7bcb522c3711315
+#EXTINF:-1 tvg-id="abp_ganga.tamil" tvg-name="ABP Ganga" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fcf%2FABP_Ganga.svg%2F500px-ABP_Ganga.svg.png" tvg-type="News" tvg-language="Tamil" group-title="News",ABP Ganga
+https://jiocdn.tulnit.fun/mm/play.php?id=1403f85dded16dc6cabd28f3182fac45
+#EXTINF:-1 tvg-id="abp_news.tamil" tvg-name="ABP News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs158138_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",ABP News
+https://jiocdn.tulnit.fun/mm/play.php?id=128a149867fea9bfa9e006815c214561
+#EXTINF:-1 tvg-id="abzy_dhakad_504p.tamil" tvg-name="Abzy Dhakad (504p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F5ORC4tn.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Abzy Dhakad (504p
+https://jiocdn.tulnit.fun/mm/play.php?id=d2bc9b5493fbf7b6671a9aa61fa47e9d
+#EXTINF:-1 tvg-id="abzy_movies.tamil" tvg-name="Abzy Movies" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FLnVgKVF.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Abzy Movies
+https://jiocdn.tulnit.fun/mm/play.php?id=ab4068acc4df7431d1d415d05f97e7a6
+#EXTINF:-1 tvg-id="adhyatm_tv.tamil" tvg-name="Adhyatm TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FAdhyatam_TV.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Adhyatm TV
+https://jiocdn.tulnit.fun/mm/play.php?id=2c5d3bc990184525898cf1c290bf22b6
+#EXTINF:-1 tvg-id="akd_calcutta_news.tamil" tvg-name="AKD Calcutta News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FCalcutta%2520News.png" tvg-type="News" tvg-language="Tamil" group-title="News",AKD Calcutta News
+https://jiocdn.tulnit.fun/mm/play.php?id=c6714082667fa26222a9c218152621f3
+#EXTINF:-1 tvg-id="all_time_movies.tamil" tvg-name="All Time Movies" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fyt3.googleusercontent.com%2FU4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg%3Ds900-c-k-c0x00ffffff-no-rj" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",All Time Movies
+https://jiocdn.tulnit.fun/mm/play.php?id=990169d6ed883880059141a340644aeb
+#EXTINF:-1 tvg-id="amarujala.tamil" tvg-name="AmarUjala" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FndQ8LZp.png" tvg-type="News" tvg-language="Tamil" group-title="News",AmarUjala
+https://jiocdn.tulnit.fun/mm/play.php?id=a1968ca3fcc57a9f7880e929988c3df8
+#EXTINF:-1 tvg-id="amrita_tv.tamil" tvg-name="Amrita TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FWdSjlPl.png" tvg-type="News" tvg-language="Tamil" group-title="News",Amrita TV
+https://jiocdn.tulnit.fun/mm/play.php?id=6ad7eb3ef083da4a5d20b78180c69fc2
+#EXTINF:-1 tvg-id="anand_tv.tamil" tvg-name="Anand TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FAnand_TV.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Anand TV
+https://jiocdn.tulnit.fun/mm/play.php?id=f010ef4246fbefcb318cd870ef9cee30
+#EXTINF:-1 tvg-id="ananda_barta.tamil" tvg-name="Ananda Barta" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FAnand_Barta.png" tvg-type="News" tvg-language="Tamil" group-title="News",Ananda Barta
+https://jiocdn.tulnit.fun/mm/play.php?id=43e93f40bd7f83d8989ed6af68e1dd78
+#EXTINF:-1 tvg-id="anb_news.tamil" tvg-name="ANB News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_ANB_NEWS%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",ANB News
+https://jiocdn.tulnit.fun/mm/play.php?id=498348f4477994f18825e269b3f34346
+#EXTINF:-1 tvg-id="animax_asia_india.tamil" tvg-name="Animax Asia India" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FAnimax.png" tvg-type="News" tvg-language="Tamil" group-title="News",Animax Asia India
+https://jiocdn.tulnit.fun/mm/play.php?id=a5f875e5f837bb42090a775fc7de4088
+#EXTINF:-1 tvg-id="ann_news.tamil" tvg-name="ANN News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Fannnewssrt.png" tvg-type="News" tvg-language="Tamil" group-title="News",ANN News
+https://jiocdn.tulnit.fun/mm/play.php?id=6e6cdce487a001f6486ae74b0bcdee0f
+#EXTINF:-1 tvg-id="apn.tamil" tvg-name="APN" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FAPN.png" tvg-type="News" tvg-language="Tamil" group-title="News",APN
+https://jiocdn.tulnit.fun/mm/play.php?id=9e4f252eed3a6a6ec5748018f5a87d8d
+#EXTINF:-1 tvg-id="apna_punjab_tv.tamil" tvg-name="Apna Punjab TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FIM4D8Wz.png" tvg-type="News" tvg-language="Tamil" group-title="News",Apna Punjab TV
+https://jiocdn.tulnit.fun/mm/play.php?id=812d6a909a5492bbede35db9b915bcf8
+#EXTINF:-1 tvg-id="aradana_tv.tamil" tvg-name="Aradana TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142649_ld_h9_aa.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Aradana TV
+https://jiocdn.tulnit.fun/mm/play.php?id=c6117076ce2e6628fcf31fb9611f3123
+#EXTINF:-1 tvg-id="aryan_tv_national.tamil" tvg-name="Aryan TV National" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_ARYAN_TV_NATIONAL%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Aryan TV National
+https://jiocdn.tulnit.fun/mm/play.php?id=f8f9fce26e6efcb99634f27e6454b442
+#EXTINF:-1 tvg-id="asianet_news.tamil" tvg-name="Asianet News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_ASIANET_NEWS%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Asianet News
+https://jiocdn.tulnit.fun/mm/play.php?id=4b8126d789ff1a6cc1a07e942b8e6255
+#EXTINF:-1 tvg-id="asianet_suvarna_news.tamil" tvg-name="Asianet Suvarna News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142682_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Asianet Suvarna News
+https://jiocdn.tulnit.fun/mm/play.php?id=ec627d649aa8be6c74ce9d0ff1976067
+#EXTINF:-1 tvg-id="assam_talks.tamil" tvg-name="Assam Talks" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142683_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Assam Talks
+https://jiocdn.tulnit.fun/mm/play.php?id=c63cf171df6be3c9487fcff34f3ddb17
+#EXTINF:-1 tvg-id="awaaz_india_tv.tamil" tvg-name="Awaaz India TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FeKQs51V.png" tvg-type="News" tvg-language="Tamil" group-title="News",Awaaz India TV
+https://jiocdn.tulnit.fun/mm/play.php?id=e4da29fc31fab61acf06e629b1b2ed1f
+#EXTINF:-1 tvg-id="awakening_tv.tamil" tvg-name="Awakening TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fp26iWOi.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Awakening TV
+https://jiocdn.tulnit.fun/mm/play.php?id=6f5ab29a572a5ff9ea47a19c90eb5050
+#EXTINF:-1 tvg-id="ayush_tv.tamil" tvg-name="Ayush TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142692_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Ayush TV
+https://jiocdn.tulnit.fun/mm/play.php?id=7bfd38ed9aac96e0f8627659da5f8f12
+#EXTINF:-1 tvg-id="b4u_bhojpuri.tamil" tvg-name="B4U Bhojpuri" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FNwOQUDp.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",B4U Bhojpuri
+https://jiocdn.tulnit.fun/mm/play.php?id=b5f899c4a9dac84c4a9da322cb794abc
+#EXTINF:-1 tvg-id="b4u_kadak.tamil" tvg-name="B4U Kadak" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142695_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",B4U Kadak
+https://jiocdn.tulnit.fun/mm/play.php?id=6b86663d2a31ff6375cf7805bb3625ad
+#EXTINF:-1 tvg-id="b4u_movies_india.tamil" tvg-name="B4U Movies India" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FM9kMFJl.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",B4U Movies India
+https://jiocdn.tulnit.fun/mm/play.php?id=122de472f0ed28b313f9c64d51a6793d
+#EXTINF:-1 tvg-id="b4u_music.tamil" tvg-name="B4U Music" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs158141_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Music" tvg-language="Tamil" group-title="Music",B4U Music
+https://jiocdn.tulnit.fun/mm/play.php?id=6f73ec07e38ea73e6a8c1851a4079aa2
+#EXTINF:-1 tvg-id="bansal_news.tamil" tvg-name="Bansal News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_BANSAL_NEWS%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Bansal News
+https://jiocdn.tulnit.fun/mm/play.php?id=038e7614f29df28e9c80b22e94d4f025
+#EXTINF:-1 tvg-id="bhakthi_tv.tamil" tvg-name="Bhakthi TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F6%2F61%2FBhakthi_TV_logo.jpg" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Bhakthi TV
+https://jiocdn.tulnit.fun/mm/play.php?id=d069c15b402ebc59293da2cac23d0bb8
+#EXTINF:-1 tvg-id="bhakti_sagar.tamil" tvg-name="Bhakti Sagar" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FBhaktisagar.png" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",Bhakti Sagar
+https://jiocdn.tulnit.fun/mm/play.php?id=0c0babab8ac4632072a71d6f55c76f30
+#EXTINF:-1 tvg-id="bharat_samachar.tamil" tvg-name="Bharat Samachar" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Bharat Samachar
+https://jiocdn.tulnit.fun/mm/play.php?id=2f0414999cef86616bb17b9de07d160a
+#EXTINF:-1 tvg-id="bhojpuri_cinema.tamil" tvg-name="Bhojpuri Cinema" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Bhojpuri Cinema
+https://jiocdn.tulnit.fun/mm/play.php?id=720adcd8fd3b6c703a894941279b2d14
+#EXTINF:-1 tvg-id="big_magic.tamil" tvg-name="Big Magic" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG002YJ850.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Big Magic
+https://jiocdn.tulnit.fun/mm/play.php?id=1e24f6f49e6ae72fd07faa9aba693a64
+#EXTINF:-1 tvg-id="brio_tv.tamil" tvg-name="Brio TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FBrio_TV.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Brio TV
+https://jiocdn.tulnit.fun/mm/play.php?id=819c30fa483b562c3a998d25823dac24
+#EXTINF:-1 tvg-id="brk_news.tamil" tvg-name="BRK News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fd229kpbsb5jevy.cloudfront.net%2Fyuppfast%2Fcontent%2Fcommon%2Fchannel%2Flogos%2Fbrk-news.png" tvg-type="News" tvg-language="Tamil" group-title="News",BRK News
+https://jiocdn.tulnit.fun/mm/play.php?id=e3dbb323cff49b979e4bdf109ed81630
+#EXTINF:-1 tvg-id="bvg.tamil" tvg-name="BVG" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FBVG.png" tvg-type="Education" tvg-language="Tamil" group-title="Education",BVG
+https://jiocdn.tulnit.fun/mm/play.php?id=cc639b8a4647c817ae8dfe3e88d9fc5b
+#EXTINF:-1 tvg-id="calvary_tv.tamil" tvg-name="Calvary TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCalvary.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Calvary TV
+https://jiocdn.tulnit.fun/mm/play.php?id=933610b18058452374342f8e574d4b33
+#EXTINF:-1 tvg-id="captain.tamil" tvg-name="Captain" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG0029CNNM.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Captain
+https://jiocdn.tulnit.fun/mm/play.php?id=bc9d8ff48a9f3679ea9e4b2ca69b535b
+#EXTINF:-1 tvg-id="ccv.tamil" tvg-name="CCV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F4ss0KfA.png" tvg-type="General" tvg-language="Tamil" group-title="General",CCV
+https://jiocdn.tulnit.fun/mm/play.php?id=666daf70d41c240ec1a1593e554acfdb
+#EXTINF:-1 tvg-id="channel_divya.tamil" tvg-name="Channel Divya" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143010_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Channel Divya
+https://jiocdn.tulnit.fun/mm/play.php?id=910dc2fbf37446ffa3cb63c98639f01a
+#EXTINF:-1 tvg-id="channel_win.tamil" tvg-name="Channel WIN" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_CHANNEL_WIN%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Channel WIN
+https://jiocdn.tulnit.fun/mm/play.php?id=9a23e0fff3732828c056a5b2cca21096
+#EXTINF:-1 tvg-id="chardikla_gurbaani_tv.tamil" tvg-name="Chardikla Gurbaani TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FNXD8CPq.png" tvg-type="News" tvg-language="Tamil" group-title="News",Chardikla Gurbaani TV
+https://jiocdn.tulnit.fun/mm/play.php?id=e895df564b9f044fed3d243c2efadde0
+#EXTINF:-1 tvg-id="chardikla_time_tv.tamil" tvg-name="Chardikla Time TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Chardikla Time TV
+https://jiocdn.tulnit.fun/mm/play.php?id=ed6f9e1b48b4522e413fc7a890d6a72f
+#EXTINF:-1 tvg-id="chardikla_time_tv_north_america.tamil" tvg-name="Chardikla Time TV North America" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FIUeMFey.jpg" tvg-type="News" tvg-language="Tamil" group-title="News",Chardikla Time TV North America
+https://jiocdn.tulnit.fun/mm/play.php?id=a1cc02e6a9a5f1c4f8aad102334530e2
+#EXTINF:-1 tvg-id="chithiram.tamil" tvg-name="Chithiram" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fxv9cWSh.png" tvg-type="Kids" tvg-language="Tamil" group-title="Kids",Chithiram
+https://jiocdn.tulnit.fun/mm/play.php?id=e8f3574ea2d5de511d4ba6e60c3d4db5
+#EXTINF:-1 tvg-id="cnbc_awaaz.tamil" tvg-name="CNBC Awaaz" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_CNBC_AWAAZ%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",CNBC Awaaz
+https://jiocdn.tulnit.fun/mm/play.php?id=84e94f45f277f6d37ac8d4d2084a3afa
+#EXTINF:-1 tvg-id="cnbc_bajar.tamil" tvg-name="CNBC Bajar" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_CNBC_BAJAR%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",CNBC Bajar
+https://jiocdn.tulnit.fun/mm/play.php?id=0285d9631947aa20073eb9c933285450
+#EXTINF:-1 tvg-id="cnbc_tv18.tamil" tvg-name="CNBC TV18" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_CNBC_TV18%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",CNBC TV18
+https://jiocdn.tulnit.fun/mm/play.php?id=dd00a913b2f28cbb1876755ec6f76870
+#EXTINF:-1 tvg-id="cnews_bharat.tamil" tvg-name="Cnews Bharat" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FC_News_Bharat.png" tvg-type="News" tvg-language="Tamil" group-title="News",Cnews Bharat
+https://jiocdn.tulnit.fun/mm/play.php?id=0d3140e99849d2eab8f8e4cf7a0e6ff9
+#EXTINF:-1 tvg-id="ctvn_akd_plus.tamil" tvg-name="CTVN AKD Plus" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142754_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",CTVN AKD Plus
+https://jiocdn.tulnit.fun/mm/play.php?id=689d6eb7b4d7ceeb3d5d95d5f2b0231c
+#EXTINF:-1 tvg-id="cvr_english.tamil" tvg-name="CVR English" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fk0WTQKi.png" tvg-type="News" tvg-language="Tamil" group-title="News",CVR English
+https://jiocdn.tulnit.fun/mm/play.php?id=c7d1af588ac5de744e52a30633e1863f
+#EXTINF:-1 tvg-id="cvr_health.tamil" tvg-name="CVR Health" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FbCyW32I.png" tvg-type="News" tvg-language="Tamil" group-title="News",CVR Health
+https://jiocdn.tulnit.fun/mm/play.php?id=0d2616b53a8f20539d2a33ceec627825
+#EXTINF:-1 tvg-id="cvr_news.tamil" tvg-name="CVR News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_CVR_NEWS%2Fimages%2FLOGO_HD%2FLOGO_HD_image.png" tvg-type="News" tvg-language="Tamil" group-title="News",CVR News
+https://jiocdn.tulnit.fun/mm/play.php?id=11c39343e489a1855ff06dceb7e9e3d6
+#EXTINF:-1 tvg-id="cvr_om_spiritual.tamil" tvg-name="CVR OM Spiritual" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FCVR_OM_Spiritual.png" tvg-type="News" tvg-language="Tamil" group-title="News",CVR OM Spiritual
+https://jiocdn.tulnit.fun/mm/play.php?id=7a1b97b494827334901438241f233803
+#EXTINF:-1 tvg-id="dangal_2.tamil" tvg-name="Dangal 2" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fwww.lyngsat.com%2Flogo%2Ftv%2Fdd%2Fdangal-2-in.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Dangal 2
+https://jiocdn.tulnit.fun/mm/play.php?id=3c32ae7ca43373fbfa89498d0e23545b
+#EXTINF:-1 tvg-id="dangal_tv.tamil" tvg-name="Dangal TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DANGAL%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Dangal TV
+https://jiocdn.tulnit.fun/mm/play.php?id=059473b5da27a2fcff7197927a171bca
+#EXTINF:-1 tvg-id="darshan_24.tamil" tvg-name="Darshan 24" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FDarshan_24.png" tvg-type="News" tvg-language="Tamil" group-title="News",Darshan 24
+https://jiocdn.tulnit.fun/mm/play.php?id=ea1cebc5c275fc4e6c8c20bf1c860222
+#EXTINF:-1 tvg-id="darshana_tv.tamil" tvg-name="Darshana TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142774_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Darshana TV
+https://jiocdn.tulnit.fun/mm/play.php?id=8914ef2ce69d8c607069da3fee1cd41e
+#EXTINF:-1 tvg-id="dd_arun_prabha.tamil" tvg-name="DD Arun Prabha" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_ARUNPRABHA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Arun Prabha
+https://jiocdn.tulnit.fun/mm/play.php?id=4fdb4a1eaaade1c5cf89ec4e73ef8324
+#EXTINF:-1 tvg-id="dd_assam.tamil" tvg-name="DD Assam" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142777_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",DD Assam
+https://jiocdn.tulnit.fun/mm/play.php?id=8b9924a989c09509258f8f4e139f34ba
+#EXTINF:-1 tvg-id="dd_bangla.tamil" tvg-name="DD Bangla" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142778_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",DD Bangla
+https://jiocdn.tulnit.fun/mm/play.php?id=85a325b3331b5439d06a96358f2f2044
+#EXTINF:-1 tvg-id="dd_bharati.tamil" tvg-name="DD Bharati" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F4tfUIEo.png" tvg-type="Education" tvg-language="Tamil" group-title="Education",DD Bharati
+https://jiocdn.tulnit.fun/mm/play.php?id=363c5a61b1b595a3cdda772c52b44d55
+#EXTINF:-1 tvg-id="dd_bihar.tamil" tvg-name="DD Bihar" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FC7KQiZI.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Bihar
+https://jiocdn.tulnit.fun/mm/play.php?id=19aa83ad6f722898b3ebf6514d1ed946
+#EXTINF:-1 tvg-id="dd_chandana.tamil" tvg-name="DD Chandana" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_CHANDANA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",DD Chandana
+https://jiocdn.tulnit.fun/mm/play.php?id=873b7b9e4a6ec4d2ae1a5b6181179c77
+#EXTINF:-1 tvg-id="dd_chhattisgarh.tamil" tvg-name="DD Chhattisgarh" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FzBg6Iuv.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Chhattisgarh
+https://jiocdn.tulnit.fun/mm/play.php?id=eca0e8f75c7b80de731f421420005d66
+#EXTINF:-1 tvg-id="dd_girnar.tamil" tvg-name="DD Girnar" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142782_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",DD Girnar
+https://jiocdn.tulnit.fun/mm/play.php?id=6b562e11bb385db6b6f1bcb799d5cce1
+#EXTINF:-1 tvg-id="dd_goa_504p.tamil" tvg-name="DD Goa (504p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FDD-Goa-Logo_2000_X_1125_Transpharent.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Goa (504p
+https://jiocdn.tulnit.fun/mm/play.php?id=35678d8be7f4c1e18138a291de214ab2
+#EXTINF:-1 tvg-id="dd_haryana.tamil" tvg-name="DD Haryana" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FDD-Haryana-Logo_2000_X_1125_Transpharent.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Haryana
+https://jiocdn.tulnit.fun/mm/play.php?id=8ba0ed3b43c08a30acf3deb6ae1136e6
+#EXTINF:-1 tvg-id="dd_himachal_pradesh_504p.tamil" tvg-name="DD Himachal Pradesh (504p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142785_ld_h9_aa.png%3Flock%3D720x540" tvg-type="General" tvg-language="Tamil" group-title="General",DD Himachal Pradesh (504p
+https://jiocdn.tulnit.fun/mm/play.php?id=4383d63cfd591d61d3970e8523786182
+#EXTINF:-1 tvg-id="dd_india.tamil" tvg-name="DD India" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs158251_ld_h15_aa.png%3Flock%3D720x540" tvg-type="General" tvg-language="Tamil" group-title="General",DD India
+https://jiocdn.tulnit.fun/mm/play.php?id=03d4f4b6311565bc6a8d3bc1cc6d8448
+#EXTINF:-1 tvg-id="dd_jharkhand.tamil" tvg-name="DD Jharkhand" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142787_ld_h15_aa.png%3Flock%3D720x540" tvg-type="General" tvg-language="Tamil" group-title="General",DD Jharkhand
+https://jiocdn.tulnit.fun/mm/play.php?id=9693683bad9ed4033eec262d6a311abd
+#EXTINF:-1 tvg-id="dd_kashir.tamil" tvg-name="DD Kashir" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_KASHIR%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Kashir
+https://jiocdn.tulnit.fun/mm/play.php?id=e71e1e1c329bb90c29a42eb0e1f9b6c2
+#EXTINF:-1 tvg-id="dd_kisan.tamil" tvg-name="DD Kisan" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fx56WJEa.png" tvg-type="Education" tvg-language="Tamil" group-title="Education",DD Kisan
+https://jiocdn.tulnit.fun/mm/play.php?id=83d6a290e20d917fde61aa16735aa170
+#EXTINF:-1 tvg-id="dd_madhya_pradesh.tamil" tvg-name="DD Madhya Pradesh" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142790_ld_h15_aa.png%3Flock%3D720x540" tvg-type="General" tvg-language="Tamil" group-title="General",DD Madhya Pradesh
+https://jiocdn.tulnit.fun/mm/play.php?id=4bf13a52fed568ff975eb2895edc3123
+#EXTINF:-1 tvg-id="dd_malayalam.tamil" tvg-name="DD Malayalam" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_MALAYALAM%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",DD Malayalam
+https://jiocdn.tulnit.fun/mm/play.php?id=92cd7248d69882874034578c359abbba
+#EXTINF:-1 tvg-id="dd_manipur_504p.tamil" tvg-name="DD Manipur (504p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_IMPHAL%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Manipur (504p
+https://jiocdn.tulnit.fun/mm/play.php?id=9b0445064f64b750bdb07cb64a12df57
+#EXTINF:-1 tvg-id="dd_meghalaya_504p.tamil" tvg-name="DD Meghalaya (504p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_SHILLONG%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Meghalaya (504p
+https://jiocdn.tulnit.fun/mm/play.php?id=1099c3b3970a8e0c4c2d8b3ed80362c0
+#EXTINF:-1 tvg-id="dd_mizoram_504p.tamil" tvg-name="DD Mizoram (504p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FI5zT1DG.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Mizoram (504p
+https://jiocdn.tulnit.fun/mm/play.php?id=a3789d0ce448c83a9a3b685510a224b7
+#EXTINF:-1 tvg-id="dd_nagaland.tamil" tvg-name="DD Nagaland" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FHUL4aF6.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Nagaland
+https://jiocdn.tulnit.fun/mm/play.php?id=1694799730232015641ad03bf722b15c
+#EXTINF:-1 tvg-id="dd_national.tamil" tvg-name="DD National" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FDD%2520National.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD National
+https://jiocdn.tulnit.fun/mm/play.php?id=4acb476117d61aa27a5ac0145c2efb58
+#EXTINF:-1 tvg-id="dd_news.tamil" tvg-name="DD News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FDD%2520News%2520HD.png" tvg-type="News" tvg-language="Tamil" group-title="News",DD News
+https://jiocdn.tulnit.fun/mm/play.php?id=50860e36391d6b2849e0edaa580afa67
+#EXTINF:-1 tvg-id="dd_odia.tamil" tvg-name="DD Odia" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_ORIYA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",DD Odia
+https://jiocdn.tulnit.fun/mm/play.php?id=896e06762a911c68f2917498e8422e06
+#EXTINF:-1 tvg-id="dd_punjabi.tamil" tvg-name="DD Punjabi" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142800_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",DD Punjabi
+https://jiocdn.tulnit.fun/mm/play.php?id=03ee9c7ee3fda8b8330f0905ce3ab7f5
+#EXTINF:-1 tvg-id="dd_rajasthan.tamil" tvg-name="DD Rajasthan" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_RAJASTHAN%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",DD Rajasthan
+https://jiocdn.tulnit.fun/mm/play.php?id=ebedceacbcae8df9c2758b230acd8f71
+#EXTINF:-1 tvg-id="dd_sahyadri.tamil" tvg-name="DD Sahyadri" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_SAHYADRI%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Sahyadri
+https://jiocdn.tulnit.fun/mm/play.php?id=274a413383fe109fe9728845c37e58fd
+#EXTINF:-1 tvg-id="dd_saptagiri.tamil" tvg-name="DD Saptagiri" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_SAPTAGIRI%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Saptagiri
+https://jiocdn.tulnit.fun/mm/play.php?id=8cc5fa1e86700d54d1fee0727f12b798
+#EXTINF:-1 tvg-id="dd_sports.tamil" tvg-name="DD Sports" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs158255_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",DD Sports
+https://jiocdn.tulnit.fun/mm/play.php?id=3bb20b90305b54c17106dfeed711d7a5
+#EXTINF:-1 tvg-id="dd_tamil.tamil" tvg-name="DD Tamil" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_TAMIL%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Tamil
+https://jiocdn.tulnit.fun/mm/play.php?id=21d9d10f85d9cca7c7d8e4a9b55001fa
+#EXTINF:-1 tvg-id="dd_tripura.tamil" tvg-name="DD Tripura" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_TRIPURA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Tripura
+https://jiocdn.tulnit.fun/mm/play.php?id=b232c27639a6be8c3f4a8599a70be0c0
+#EXTINF:-1 tvg-id="dd_urdu.tamil" tvg-name="DD Urdu" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_URDU%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",DD Urdu
+https://jiocdn.tulnit.fun/mm/play.php?id=4284cf33ebdf1dad512b4c79690366d8
+#EXTINF:-1 tvg-id="dd_uttar_pradesh.tamil" tvg-name="DD Uttar Pradesh" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142807_ld_h9_ab.png%3Flock%3D720x540" tvg-type="General" tvg-language="Tamil" group-title="General",DD Uttar Pradesh
+https://jiocdn.tulnit.fun/mm/play.php?id=cc281f0df6e7750ce4053b12708fc3a3
+#EXTINF:-1 tvg-id="dd_uttarakhand.tamil" tvg-name="DD Uttarakhand" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142809_ld_h15_aa.png%3Flock%3D720x540" tvg-type="General" tvg-language="Tamil" group-title="General",DD Uttarakhand
+https://jiocdn.tulnit.fun/mm/play.php?id=4e83f60934b621a652ac75926cc45d25
+#EXTINF:-1 tvg-id="dd_yadagiri.tamil" tvg-name="DD Yadagiri" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_DD_YADAGIRI%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="General" tvg-language="Tamil" group-title="General",DD Yadagiri
+https://jiocdn.tulnit.fun/mm/play.php?id=914d2ee69275e1d130c5155b05e4a595
+#EXTINF:-1 tvg-id="desi_channel.tamil" tvg-name="Desi Channel" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdesichannel.in%2Fwp-content%2Fuploads%2F2025%2F01%2Fdesi-channel.png" tvg-type="News" tvg-language="Tamil" group-title="News",Desi Channel
+https://jiocdn.tulnit.fun/mm/play.php?id=50a9b6a8ab7e4cc36b6bd02a54102739
+#EXTINF:-1 tvg-id="dhamaka_movies_b4u.tamil" tvg-name="Dhamaka Movies B4U" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fwww.lyngsat.com%2Flogo%2Ftv%2Fdd%2Fdhamaka-movies-b4u-in.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Dhamaka Movies B4U
+https://jiocdn.tulnit.fun/mm/play.php?id=f71b2c45a489602cbe9448594d685639
+#EXTINF:-1 tvg-id="dharm_sandesh.tamil" tvg-name="Dharm Sandesh" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FArihant_TV.png" tvg-type="News" tvg-language="Tamil" group-title="News",Dharm Sandesh
+https://jiocdn.tulnit.fun/mm/play.php?id=0739c4428789646e89b677e0ae01b4b7
+#EXTINF:-1 tvg-id="dharsan_tv.tamil" tvg-name="Dharsan TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fplay-lh.googleusercontent.com%2Fbrn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Dharsan TV
+https://jiocdn.tulnit.fun/mm/play.php?id=9f5c8b5a6c5ac75efce29d291911fa2f
+#EXTINF:-1 tvg-id="dheeran_tv.tamil" tvg-name="Dheeran TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FjSedjXf.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Dheeran TV
+https://jiocdn.tulnit.fun/mm/play.php?id=e797da136f018ec0726e4ed8b3850e37
+#EXTINF:-1 tvg-id="disha_tv.tamil" tvg-name="Disha TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FDisha_tv.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Disha TV
+https://jiocdn.tulnit.fun/mm/play.php?id=d88e6c4e194c7ae8d98e3e80b6e7f89b
+#EXTINF:-1 tvg-id="e_24.tamil" tvg-name="E 24" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_E24%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",E 24
+https://jiocdn.tulnit.fun/mm/play.php?id=c1cc8418abc7d50499784b1f1104fc8f
+#EXTINF:-1 tvg-id="eet_tv.tamil" tvg-name="EET TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FrMldFW8.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",EET TV
+https://jiocdn.tulnit.fun/mm/play.php?id=82d568b140474fff854c6f07d9a70974
+#EXTINF:-1 tvg-id="enterr_10_bangla.tamil" tvg-name="Enterr 10 Bangla" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_ENTERR10_BANGLA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Enterr 10 Bangla
+https://jiocdn.tulnit.fun/mm/play.php?id=41fb755c6abe86a5b14d9ce76f4d0202
+#EXTINF:-1 tvg-id="etv_comedy.tamil" tvg-name="ETV Comedy" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Ftvpnlogopus.samsungcloud.tv%2Fplatform%2Fimage%2Fsourcelogo%2Fvc%2F00%2F02%2F34%2FIN4900003U3_20251106T195117SQUARE.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",ETV Comedy
+https://jiocdn.tulnit.fun/mm/play.php?id=0c0d203e683c2fb2986b72c9cf45a8c3
+#EXTINF:-1 tvg-id="etv_josh.tamil" tvg-name="ETV Josh" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Ftvpnlogopus.samsungcloud.tv%2Fplatform%2Fimage%2Fsourcelogo%2Fvc%2F00%2F02%2F34%2FIN4900004LP_20250811T033452SQUARE.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",ETV Josh
+https://jiocdn.tulnit.fun/mm/play.php?id=94ea757d864135288a75a4c796737a29
+#EXTINF:-1 tvg-id="etv_music.tamil" tvg-name="ETV Music" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Ftvpnlogopus.samsungcloud.tv%2Fplatform%2Fimage%2Fsourcelogo%2Fvc%2F00%2F02%2F34%2FIN4900002RV_20250811T033455SQUARE.png" tvg-type="Music" tvg-language="Tamil" group-title="Music",ETV Music
+https://jiocdn.tulnit.fun/mm/play.php?id=78083e27acd99a8673952a90782dc8eb
+#EXTINF:-1 tvg-id="etv_news.tamil" tvg-name="ETV News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Ftvpnlogopus.samsungcloud.tv%2Fplatform%2Fimage%2Fsourcelogo%2Fvc%2F00%2F02%2F34%2FIN4900001AQ_20250811T033458SQUARE.png" tvg-type="News" tvg-language="Tamil" group-title="News",ETV News
+https://jiocdn.tulnit.fun/mm/play.php?id=3dd22cc3381d52e1e3e61832aa539cf6
+#EXTINF:-1 tvg-id="fakt_marathi.tamil" tvg-name="Fakt Marathi" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143038_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Fakt Marathi
+https://jiocdn.tulnit.fun/mm/play.php?id=f86bbc2c9253afa9f0fbb90464754306
+#EXTINF:-1 tvg-id="fateh_tv.tamil" tvg-name="Fateh TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fc4ItNkB.png" tvg-type="News" tvg-language="Tamil" group-title="News",Fateh TV
+https://jiocdn.tulnit.fun/mm/play.php?id=8d43d5425aea3c714d1029c02e91a3aa
+#EXTINF:-1 tvg-id="filamchi_bhojpuri.tamil" tvg-name="Filamchi Bhojpuri" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs157803_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Filamchi Bhojpuri
+https://jiocdn.tulnit.fun/mm/play.php?id=403a58b08740d062d90aedeffa15579a
+#EXTINF:-1 tvg-id="first_india_news.tamil" tvg-name="First India News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_FIRST_INDIA_NEWS_RAJASTHAN%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",First India News
+https://jiocdn.tulnit.fun/mm/play.php?id=b6ce64cad0b4a108c0660032f5d759dc
+#EXTINF:-1 tvg-id="gangaur_tv.tamil" tvg-name="Gangaur TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FGangaur.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Gangaur TV
+https://jiocdn.tulnit.fun/mm/play.php?id=ab978cc37978f8d8504ca1d0c419ce35
+#EXTINF:-1 tvg-id="global_punjab.tamil" tvg-name="Global Punjab" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FWDLqcWW.png" tvg-type="News" tvg-language="Tamil" group-title="News",Global Punjab
+https://jiocdn.tulnit.fun/mm/play.php?id=96c022c2cdc1d6b9b98931b770c736dd
+#EXTINF:-1 tvg-id="goa365.tamil" tvg-name="Goa365" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fwww.goa365.tv%2Fimages%2FGOA-365-Logo.jpg" tvg-type="News" tvg-language="Tamil" group-title="News",Goa365
+https://jiocdn.tulnit.fun/mm/play.php?id=9d83ef7a65816dc8b1b8c9afb6f9d887
+#EXTINF:-1 tvg-id="goldmines.tamil" tvg-name="Goldmines" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_GOLDMINES%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Goldmines
+https://jiocdn.tulnit.fun/mm/play.php?id=6d65f643f1c6d3e79d108d57d8009ecd
+#EXTINF:-1 tvg-id="goldmines_2.tamil" tvg-name="Goldmines 2" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fwww.lyngsat.com%2Flogo%2Ftv%2Fgg%2Fgoldmines-2-in.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Goldmines 2
+https://jiocdn.tulnit.fun/mm/play.php?id=30331b6e2229c566a98e1b16df8f04f9
+#EXTINF:-1 tvg-id="goldmines_movies.tamil" tvg-name="Goldmines Movies" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142881_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Goldmines Movies
+https://jiocdn.tulnit.fun/mm/play.php?id=dddd612ff6efc6bac79f65ae6e457450
+#EXTINF:-1 tvg-id="goodnews_tv.tamil" tvg-name="GoodNews TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_GOODNEWS_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",GoodNews TV
+https://jiocdn.tulnit.fun/mm/play.php?id=68e55bce7e5c755657a524e1c72c28b5
+#EXTINF:-1 tvg-id="grace_tv.tamil" tvg-name="Grace TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FGrace_TV.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Grace TV
+https://jiocdn.tulnit.fun/mm/play.php?id=d343c059e49f37b30af7bc49364e1798
+#EXTINF:-1 tvg-id="gs_tv.tamil" tvg-name="GS TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FGS_TV.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",GS TV
+https://jiocdn.tulnit.fun/mm/play.php?id=eededbbbdfe39be5400d4a38f8de9ebc
+#EXTINF:-1 tvg-id="gtc_punjabi.tamil" tvg-name="GTC Punjabi" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fmedia.thegtcnetwork.com%2Fuploads%2Fgtc-pujabin-s.jpg" tvg-type="News" tvg-language="Tamil" group-title="News",GTC Punjabi
+https://jiocdn.tulnit.fun/mm/play.php?id=c92cad7b8734b37cdc25ab0a7784d4b5
+#EXTINF:-1 tvg-id="guarantee_news.tamil" tvg-name="Guarantee News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD560BAQHYZzbGJ7ViZA%2Fcompany-logo_200_200%2Fcompany-logo_200_200%2F0%2F1728031377890%3Fe%3D2147483647%26v%3Dbeta%26t%3DbIsZgNUCcg0M_-Zqeu5wKYgBt_1-pI798X9lP5CxhTM" tvg-type="News" tvg-language="Tamil" group-title="News",Guarantee News
+https://jiocdn.tulnit.fun/mm/play.php?id=c5d78e19574e1cea4dc917e09aa616f8
+#EXTINF:-1 tvg-id="gujarat_first.tamil" tvg-name="Gujarat First" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FGujarat_First_24x7.png" tvg-type="News" tvg-language="Tamil" group-title="News",Gujarat First
+https://jiocdn.tulnit.fun/mm/play.php?id=0c74569ba29340ccd9c7f0ec938dc25b
+#EXTINF:-1 tvg-id="gyandarshan.tamil" tvg-name="Gyandarshan" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_GYANDARSHAN%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",Gyandarshan
+https://jiocdn.tulnit.fun/mm/play.php?id=6eb31f00982252866fc1cb05b6ba182e
+#EXTINF:-1 tvg-id="hamdard_tv.tamil" tvg-name="Hamdard TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.ibb.co%2FJcD2xck%2Flogo-hamda.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Hamdard TV
+https://jiocdn.tulnit.fun/mm/play.php?id=49b109a0f70a9769f7c55e170842334c
+#EXTINF:-1 tvg-id="har_khabar.tamil" tvg-name="Har Khabar" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_HARKHABAR%2Fimages%2FLOGO_HD%2FLOGO_HD_image.png" tvg-type="News" tvg-language="Tamil" group-title="News",Har Khabar
+https://jiocdn.tulnit.fun/mm/play.php?id=65a8f2db88cb695f58e1ce4a30a6d79f
+#EXTINF:-1 tvg-id="harvest_tv.tamil" tvg-name="Harvest TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_HARVEST_TV_24X7%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Harvest TV
+https://jiocdn.tulnit.fun/mm/play.php?id=30ae01f9e42831a6d992df853636715f
+#EXTINF:-1 tvg-id="harvest_tv_keralam.tamil" tvg-name="Harvest TV Keralam" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F1DyPuIt.png" tvg-type="News" tvg-language="Tamil" group-title="News",Harvest TV Keralam
+https://jiocdn.tulnit.fun/mm/play.php?id=01ad84ef92fbd9303c1b4a08feee02af
+#EXTINF:-1 tvg-id="harvest_usa.tamil" tvg-name="Harvest USA" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fwww.lyngsat.com%2Flogo%2Ftv%2Fhh%2Fharvest_tv_in_usa.png" tvg-type="News" tvg-language="Tamil" group-title="News",Harvest USA
+https://jiocdn.tulnit.fun/mm/play.php?id=a234a5446cca275c3f3bce96717398ab
+#EXTINF:-1 tvg-id="hebron_tv_432p.tamil" tvg-name="Hebron TV (432p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi0.wp.com%2Fhebrontv.in%2Fwp-content%2Fuploads%2F2023%2F11%2Fhebron-.png%3Fw%3D512" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Hebron TV (432p
+https://jiocdn.tulnit.fun/mm/play.php?id=cf9c8f95fdf9d1033fb8cd3648872658
+#EXTINF:-1 tvg-id="hi_dost.tamil" tvg-name="Hi Dost!" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FHi_Dost.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Hi Dost!
+https://jiocdn.tulnit.fun/mm/play.php?id=1e61921cc1e0162bc85a4299e9625357
+#EXTINF:-1 tvg-id="high_news.tamil" tvg-name="High News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1104268476858937351%2FUSUT4ykS_400x400.png" tvg-type="News" tvg-language="Tamil" group-title="News",High News
+https://jiocdn.tulnit.fun/mm/play.php?id=39a68755b1a3da0c116d1b48a91a5a08
+#EXTINF:-1 tvg-id="hindi_khabar.tamil" tvg-name="Hindi Khabar" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_HINDI_KHABAR%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Hindi Khabar
+https://jiocdn.tulnit.fun/mm/play.php?id=5075c090db172b89e2b2fe010d96c001
+#EXTINF:-1 tvg-id="hindu_dharmam.tamil" tvg-name="Hindu Dharmam" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143131_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",Hindu Dharmam
+https://jiocdn.tulnit.fun/mm/play.php?id=1da535e3d90a13b22bd4493b41cb08b6
+#EXTINF:-1 tvg-id="hmtv.tamil" tvg-name="HMTV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143136_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",HMTV
+https://jiocdn.tulnit.fun/mm/play.php?id=8170aca7de5d3fe80d1dd835aab2176e
+#EXTINF:-1 tvg-id="hnn_24x7.tamil" tvg-name="HNN 24x7" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FHNN24x7.png" tvg-type="News" tvg-language="Tamil" group-title="News",HNN 24x7
+https://jiocdn.tulnit.fun/mm/play.php?id=e92c69c1f5bd60eb91837c53024e95cb
+#EXTINF:-1 tvg-id="hope_channel_india.tamil" tvg-name="Hope Channel India" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FwPzPUrK.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Hope Channel India
+https://jiocdn.tulnit.fun/mm/play.php?id=356bd7c75d516f86099e6eaa7ee68c04
+#EXTINF:-1 tvg-id="hornbill_tv.tamil" tvg-name="Hornbill TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_HORNBILL%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Hornbill TV
+https://jiocdn.tulnit.fun/mm/play.php?id=98901365ffe291c09c61a6d14602d54e
+#EXTINF:-1 tvg-id="ibc_24.tamil" tvg-name="IBC 24" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_IBC24%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",IBC 24
+https://jiocdn.tulnit.fun/mm/play.php?id=719a532644f0da9582c94e6c8acc667b
+#EXTINF:-1 tvg-id="ind_24.tamil" tvg-name="Ind 24" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FexRpVmL.png" tvg-type="News" tvg-language="Tamil" group-title="News",Ind 24
+https://jiocdn.tulnit.fun/mm/play.php?id=13a9adc679a0ce33185ff17e3cfc8afc
+#EXTINF:-1 tvg-id="india_ahead.tamil" tvg-name="India Ahead" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FhBkTmf9.png" tvg-type="News" tvg-language="Tamil" group-title="News",India Ahead
+https://jiocdn.tulnit.fun/mm/play.php?id=3daf1c05f42a320987f6efdc22808952
+#EXTINF:-1 tvg-id="india_daily_live.tamil" tvg-name="India Daily Live" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FIndia_Daily_24x7.png" tvg-type="News" tvg-language="Tamil" group-title="News",India Daily Live
+https://jiocdn.tulnit.fun/mm/play.php?id=bf44bc6a51d32da32a5515c28d09248e
+#EXTINF:-1 tvg-id="india_today.tamil" tvg-name="India Today" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_INDIA_TODAY%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",India Today
+https://jiocdn.tulnit.fun/mm/play.php?id=a9372d6d9a894962c66370e535d47684
+#EXTINF:-1 tvg-id="india_tv.tamil" tvg-name="India TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_INDIA_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",India TV
+https://jiocdn.tulnit.fun/mm/play.php?id=a7dfe04280bdcaae024bd357fe582858
+#EXTINF:-1 tvg-id="india_tv_aap_ki_adalat.tamil" tvg-name="India TV Aap Ki Adalat" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fplay-lh.googleusercontent.com%2F2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" tvg-type="News" tvg-language="Tamil" group-title="News",India TV Aap Ki Adalat
+https://jiocdn.tulnit.fun/mm/play.php?id=eb7786a34322152ff06c629b46ef8087
+#EXTINF:-1 tvg-id="india_voice.tamil" tvg-name="India Voice" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FIndia_Voice.png" tvg-type="News" tvg-language="Tamil" group-title="News",India Voice
+https://jiocdn.tulnit.fun/mm/play.php?id=c4f0ad5ab2cd11303a4a006c2561162b
+#EXTINF:-1 tvg-id="indywood_tv.tamil" tvg-name="Indywood TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.ibb.co%2FjT3NCPp%2Flogo-tv.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Indywood TV
+https://jiocdn.tulnit.fun/mm/play.php?id=4257d29e07b30c216aa7b29c2fec4852
+#EXTINF:-1 tvg-id="inews.tamil" tvg-name="INews" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FI_News.png" tvg-type="News" tvg-language="Tamil" group-title="News",INews
+https://jiocdn.tulnit.fun/mm/play.php?id=0de465bda31dd1ccb5ddaf2cc2c4fd89
+#EXTINF:-1 tvg-id="inh_24x7.tamil" tvg-name="INH 24x7" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_INH_24X7%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",INH 24x7
+https://jiocdn.tulnit.fun/mm/play.php?id=65f31185b437e3c66a36f430ed8f5fa6
+#EXTINF:-1 tvg-id="insync.tamil" tvg-name="Insync" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FInsync.png" tvg-type="Music" tvg-language="Tamil" group-title="Music",Insync
+https://jiocdn.tulnit.fun/mm/play.php?id=5be999d5609c1a457ef3ca93bc4310c9
+#EXTINF:-1 tvg-id="inwild.tamil" tvg-name="INWILD" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fcdn.uc.assets.prezly.com%2F92770c71-9d6f-400f-8311-38e9cfec52c2%2FInWild_landscape-green.png" tvg-type="News" tvg-language="Tamil" group-title="News",INWILD
+https://jiocdn.tulnit.fun/mm/play.php?id=fa641e1fa04909301791030a9baead12
+#EXTINF:-1 tvg-id="ishwar_bhakti_tv.tamil" tvg-name="Ishwar Bhakti TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_ISHWAR_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Ishwar Bhakti TV
+https://jiocdn.tulnit.fun/mm/play.php?id=6ce72ad931a3460fd1a26e6fd32c7f6a
+#EXTINF:-1 tvg-id="jai_maharashtra.tamil" tvg-name="Jai Maharashtra" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FJai_Maharashtra.png" tvg-type="News" tvg-language="Tamil" group-title="News",Jai Maharashtra
+https://jiocdn.tulnit.fun/mm/play.php?id=cd6e92941ce212d89d010162a789e029
+#EXTINF:-1 tvg-id="jaihind_tv.tamil" tvg-name="Jaihind TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FNaiA73p.png" tvg-type="News" tvg-language="Tamil" group-title="News",Jaihind TV
+https://jiocdn.tulnit.fun/mm/play.php?id=5b000f707d5b1a05da0b58261005a7ae
+#EXTINF:-1 tvg-id="jan_tv.tamil" tvg-name="Jan TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_JAN_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Jan TV
+https://jiocdn.tulnit.fun/mm/play.php?id=28a07b7f077f9e1e85ad0f7110772cbb
+#EXTINF:-1 tvg-id="janta_tv.tamil" tvg-name="Janta TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_JANTA_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Janta TV
+https://jiocdn.tulnit.fun/mm/play.php?id=8338a24e12f1f82587fca7983f5d86c3
+#EXTINF:-1 tvg-id="jaya_plus.tamil" tvg-name="Jaya Plus" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_JAYA_PLUS%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Jaya Plus
+https://jiocdn.tulnit.fun/mm/play.php?id=8066922a48d07314354385fc1ce06a45
+#EXTINF:-1 tvg-id="jeevan_tv.tamil" tvg-name="Jeevan TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FJeevan_TV.png" tvg-type="News" tvg-language="Tamil" group-title="News",Jeevan TV
+https://jiocdn.tulnit.fun/mm/play.php?id=069cd1ef61bf85a9734c00f7869a47f2
+#EXTINF:-1 tvg-id="jinvani_channel.tamil" tvg-name="Jinvani Channel" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143230_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Jinvani Channel
+https://jiocdn.tulnit.fun/mm/play.php?id=f423ee4c947e409005d9550e0c14d86c
+#EXTINF:-1 tvg-id="jonack_tv.tamil" tvg-name="Jonack TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_JONACK%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Jonack TV
+https://jiocdn.tulnit.fun/mm/play.php?id=295646c4cfc205cbaaa7128af9e9d474
+#EXTINF:-1 tvg-id="k_news_india.tamil" tvg-name="K News India" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FK_News_India.png" tvg-type="News" tvg-language="Tamil" group-title="News",K News India
+https://jiocdn.tulnit.fun/mm/play.php?id=64239dcc3951d080e439b5a147969a90
+#EXTINF:-1 tvg-id="kairali_arabia.malayalam" tvg-name="Kairali Arabia" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FBBEfplL.png" tvg-type="News" tvg-language="Malayalam" group-title="News",Kairali Arabia
+https://jiocdn.tulnit.fun/mm/play.php?id=aaf2a8a4cd5980fc86edd4f1d7621598
+#EXTINF:-1 tvg-id="kairali_news.telugu" tvg-name="Kairali News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143246_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Telugu" group-title="News",Kairali News
+https://jiocdn.tulnit.fun/mm/play.php?id=9085984ade938530c3cc26b646b58bea
+#EXTINF:-1 tvg-id="kairali_tv.malayalam" tvg-name="Kairali TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F6%2F6e%2FKairali_TV.svg%2F500px-Kairali_TV.svg.png" tvg-type="News" tvg-language="Malayalam" group-title="News",Kairali TV
+https://jiocdn.tulnit.fun/mm/play.php?id=94a9cfb4a10d15c2f4af4aaee9ed8140
+#EXTINF:-1 tvg-id="kairali_we.malayalam" tvg-name="Kairali We" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_KAIRALI_WE%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Malayalam" group-title="News",Kairali We
+https://jiocdn.tulnit.fun/mm/play.php?id=36b40e42300004234fd283119c5946df
+#EXTINF:-1 tvg-id="kalaignar_seithigal.tamil" tvg-name="Kalaignar Seithigal" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143769_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Kalaignar Seithigal
+https://jiocdn.tulnit.fun/mm/play.php?id=bf373a1b4ef059f5eaa7e770a94d9d46
+#EXTINF:-1 tvg-id="kalaignar_tv_396p.tamil" tvg-name="Kalaignar TV (396p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FKalaignar%2520TV.png" tvg-type="News" tvg-language="Tamil" group-title="News",Kalaignar TV (396p
+https://jiocdn.tulnit.fun/mm/play.php?id=ffd3cbabeb046e368523735ccac7f82a
+#EXTINF:-1 tvg-id="kalinga_tv.tamil" tvg-name="Kalinga TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_KALINGA_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Kalinga TV
+https://jiocdn.tulnit.fun/mm/play.php?id=0afe2cc1a50a11beddf389ba916df0d6
+#EXTINF:-1 tvg-id="kannur_vision.tamil" tvg-name="Kannur Vision" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FFCXqPer.png" tvg-type="News" tvg-language="Tamil" group-title="News",Kannur Vision
+https://jiocdn.tulnit.fun/mm/play.php?id=5741515637c46e827527b149e1ad9413
+#EXTINF:-1 tvg-id="kappa_tv.tamil" tvg-name="Kappa TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FKappa_TV.png" tvg-type="News" tvg-language="Tamil" group-title="News",Kappa TV
+https://jiocdn.tulnit.fun/mm/play.php?id=2933d0818d2f1bc1f63ee17b0817b8c3
+#EXTINF:-1 tvg-id="kashish_news.tamil" tvg-name="Kashish News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FqfINs2r.png" tvg-type="News" tvg-language="Tamil" group-title="News",Kashish News
+https://jiocdn.tulnit.fun/mm/play.php?id=e834c0f49e302b41d5791f7f9f01a352
+#EXTINF:-1 tvg-id="kaumudy_tv.tamil" tvg-name="Kaumudy TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143259_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Kaumudy TV
+https://jiocdn.tulnit.fun/mm/play.php?id=8e2319d148bea0d39412a85de70a4f9f
+#EXTINF:-1 tvg-id="kcl_tv.tamil" tvg-name="KCL TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fbkp9dIm.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",KCL TV
+https://jiocdn.tulnit.fun/mm/play.php?id=1512415142dfc48a5ec44d7239598d6d
+#EXTINF:-1 tvg-id="kcm.tamil" tvg-name="KCM" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FKCM.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",KCM
+https://jiocdn.tulnit.fun/mm/play.php?id=d4de4322c270bfa5d806d228e71cb4e8
+#EXTINF:-1 tvg-id="kerala_vision.tamil" tvg-name="Kerala Vision" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FSWNjyyp.png" tvg-type="News" tvg-language="Tamil" group-title="News",Kerala Vision
+https://jiocdn.tulnit.fun/mm/play.php?id=6048f319b39187510a00667b57705743
+#EXTINF:-1 tvg-id="khabar_fast.tamil" tvg-name="Khabar Fast" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_KHABAR_FAST%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Khabar Fast
+https://jiocdn.tulnit.fun/mm/play.php?id=891dd85d4b7ee58d2dc946626c6ae134
+#EXTINF:-1 tvg-id="khabrain_abhi_tak.tamil" tvg-name="Khabrain Abhi Tak" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143262_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Khabrain Abhi Tak
+https://jiocdn.tulnit.fun/mm/play.php?id=2e6741daf3536a91b3f768d6936691ab
+#EXTINF:-1 tvg-id="khushboo_bangla.tamil" tvg-name="Khushboo Bangla" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_KHUSHBOO_BANGLA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Khushboo Bangla
+https://jiocdn.tulnit.fun/mm/play.php?id=76ed80c7121c264a5235044a7910eac0
+#EXTINF:-1 tvg-id="kite_victers_kerala.tamil" tvg-name="KITE Victers (Kerala" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fkj4OEsb.png" tvg-type="News" tvg-language="Tamil" group-title="News",KITE Victers (Kerala
+https://jiocdn.tulnit.fun/mm/play.php?id=26698f1882594e660dd7200e514c9ffc
+#EXTINF:-1 tvg-id="kolkata_tv.tamil" tvg-name="Kolkata TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143271_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Kolkata TV
+https://jiocdn.tulnit.fun/mm/play.php?id=7a5f88af0934758276361ff67dd03663
+#EXTINF:-1 tvg-id="ktv_bangla.tamil" tvg-name="KTV Bangla" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FzG2P1WZ.png" tvg-type="News" tvg-language="Tamil" group-title="News",KTV Bangla
+https://jiocdn.tulnit.fun/mm/play.php?id=543521572f5d8bf8755ed8e6947b884b
+#EXTINF:-1 tvg-id="life_tv.tamil" tvg-name="Life TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.ibb.co%2Fv1C0bdR%2Flogo-1.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Life TV
+https://jiocdn.tulnit.fun/mm/play.php?id=caf1e9bc17a6abb9ab668208b5fad56e
+#EXTINF:-1 tvg-id="living_india_news.tamil" tvg-name="Living India News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FYikaJvd.png" tvg-type="News" tvg-language="Tamil" group-title="News",Living India News
+https://jiocdn.tulnit.fun/mm/play.php?id=da21aa8d2c2a8efea373af017028bf22
+#EXTINF:-1 tvg-id="lokshahi_news.tamil" tvg-name="Lokshahi News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_LOKSHAHI%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Lokshahi News
+https://jiocdn.tulnit.fun/mm/play.php?id=b96837322bbda63a5758a1fd89b9be11
+#EXTINF:-1 tvg-id="m_nadu_tv.tamil" tvg-name="M Nadu TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FM_Nadu.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",M Nadu TV
+https://jiocdn.tulnit.fun/mm/play.php?id=33e13276079ac89276c71a1c26cd176e
+#EXTINF:-1 tvg-id="madhimugam_tv.tamil" tvg-name="Madhimugam TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FMadhimugam_TV.png" tvg-type="News" tvg-language="Tamil" group-title="News",Madhimugam TV
+https://jiocdn.tulnit.fun/mm/play.php?id=3b0c5223e204a4e6b5565d511820bdf1
+#EXTINF:-1 tvg-id="maha_movie.tamil" tvg-name="Maha Movie" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FMaha_Movies.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Maha Movie
+https://jiocdn.tulnit.fun/mm/play.php?id=250f777c8370c9faea97718563980650
+#EXTINF:-1 tvg-id="mahaa_max.tamil" tvg-name="Mahaa Max" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fobjectstorage.ap-mumbai-1.oraclecloud.com%2Fp%2F7Eg7LPw1gBcncVDrfwf__7yyrg13awaU6DmMk4gutavGYZgoAuAziv8e0aSEdU4G%2Fn%2Fbmaqqlwez184%2Fb%2FGTPL_CHANNEL_LOGO%2Fo%2Fgtpl%2FMAHAA%2BMAX%2BLOGO.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Mahaa Max
+https://jiocdn.tulnit.fun/mm/play.php?id=cbe834ae8106c26acc1597607cb4cad6
+#EXTINF:-1 tvg-id="makkal_tv_576i.tamil" tvg-name="Makkal TV (576i" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_MAKKAL_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Makkal TV (576i
+https://jiocdn.tulnit.fun/mm/play.php?id=dc0dbcec2f6dfc2e5ce4f6eec02f7f87
+#EXTINF:-1 tvg-id="malai_murasu_tv.tamil" tvg-name="Malai Murasu TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FOC5TQxp.png" tvg-type="News" tvg-language="Tamil" group-title="News",Malai Murasu TV
+https://jiocdn.tulnit.fun/mm/play.php?id=2f8a8f936d6683cc6c1d943643614f94
+#EXTINF:-1 tvg-id="malar_tv.tamil" tvg-name="Malar TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fwww.lyngsat.com%2Flogo%2Ftv%2Fmm%2Fmalar-tv-in.png" tvg-type="News" tvg-language="Tamil" group-title="News",Malar TV
+https://jiocdn.tulnit.fun/mm/play.php?id=a1b5d8c02f2d5743f8cf035a8e2d013a
+#EXTINF:-1 tvg-id="mango_mobile_tv.tamil" tvg-name="Mango Mobile TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdvvlqr1rtlak3.cloudfront.net%2FMango%2FMANGOTVLOGO.jpg" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Mango Mobile TV
+https://jiocdn.tulnit.fun/mm/play.php?id=02f61b012c7e3c1b3aaf31be6184f468
+#EXTINF:-1 tvg-id="manoranjan_grand.tamil" tvg-name="Manoranjan Grand" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143302_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Manoranjan Grand
+https://jiocdn.tulnit.fun/mm/play.php?id=cee3fd8564e0a7f8e6b0f85a859886bb
+#EXTINF:-1 tvg-id="manoranjan_tv.tamil" tvg-name="Manoranjan TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_MANORANJAN_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Manoranjan TV
+https://jiocdn.tulnit.fun/mm/play.php?id=10d898d2cdb2f9fc4f08f55d628ac99b
+#EXTINF:-1 tvg-id="mathrubhumi_news.tamil" tvg-name="Mathrubhumi News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FdiQftzP.png" tvg-type="News" tvg-language="Tamil" group-title="News",Mathrubhumi News
+https://jiocdn.tulnit.fun/mm/play.php?id=9f12bf36fdbaea6eaa794d11c28efe76
+#EXTINF:-1 tvg-id="max_movies.tamil" tvg-name="Max Movies" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168422_WhatsApp%2520Image%25202024-11-21%2520at%252010.18.47%2520AM.jpeg" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Max Movies
+https://jiocdn.tulnit.fun/mm/play.php?id=6a23b85cdd4fe7e0379d93ad38e408fa
+#EXTINF:-1 tvg-id="max_music.tamil" tvg-name="Max Music" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732168750_WhatsApp%2520Image%25202024-11-21%2520at%252011.05.55%2520AM%2520%281%29.jpeg" tvg-type="Music" tvg-language="Tamil" group-title="Music",Max Music
+https://jiocdn.tulnit.fun/mm/play.php?id=0c9528562a8628eeaaa2a2f5c9521a35
+#EXTINF:-1 tvg-id="mazhavil_manorama.tamil" tvg-name="Mazhavil Manorama" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FfjgzW20.png" tvg-type="News" tvg-language="Tamil" group-title="News",Mazhavil Manorama
+https://jiocdn.tulnit.fun/mm/play.php?id=5a544a556b8be3d6d745b0c4ef81a167
+#EXTINF:-1 tvg-id="mbc_tv.tamil" tvg-name="MBC TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs135691_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",MBC TV
+https://jiocdn.tulnit.fun/mm/play.php?id=c87ae7b3ab28f11096dad9f3bcbb24d2
+#EXTINF:-1 tvg-id="media_one.tamil" tvg-name="Media One" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_MEDIA_ONE%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Media One
+https://jiocdn.tulnit.fun/mm/play.php?id=55cec2586b600f56f11a04a0ca41aaf4
+#EXTINF:-1 tvg-id="mercy_tv.tamil" tvg-name="Mercy TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FklNH4tV.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Mercy TV
+https://jiocdn.tulnit.fun/mm/play.php?id=eab42c20d07ed9d3f65e8acfb34f75e9
+#EXTINF:-1 tvg-id="metro_tv.tamil" tvg-name="Metro TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FMetro_TV.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Metro TV
+https://jiocdn.tulnit.fun/mm/play.php?id=57d1ad4c5f75f653547b77353ffe05b3
+#EXTINF:-1 tvg-id="mh_1_music.tamil" tvg-name="Mh 1 Music" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143539_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Music" tvg-language="Tamil" group-title="Music",Mh 1 Music
+https://jiocdn.tulnit.fun/mm/play.php?id=893d5efb91dab035c155dedacbb2ae52
+#EXTINF:-1 tvg-id="mh_1_news.tamil" tvg-name="Mh 1 News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143540_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Mh 1 News
+https://jiocdn.tulnit.fun/mm/play.php?id=69d2f6b190ebe3870d9b44a27acfd91d
+#EXTINF:-1 tvg-id="mh_one_dil_se.tamil" tvg-name="MH One Dil Se" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdilse.mhone.in%2Fwp-content%2Fuploads%2F2022%2F02%2FMH-ONE-dil-se-LOGO-white-copy.png" tvg-type="News" tvg-language="Tamil" group-title="News",MH One Dil Se
+https://jiocdn.tulnit.fun/mm/play.php?id=d80d4daf0e79ed15d64c30e902eca43b
+#EXTINF:-1 tvg-id="mh_one_movies.tamil" tvg-name="MH One Movies" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fwww.lyngsat.com%2Flogo%2Ftv%2Fmm%2Fmh-1-movies-in.png" tvg-type="News" tvg-language="Tamil" group-title="News",MH One Movies
+https://jiocdn.tulnit.fun/mm/play.php?id=35e4225905bc806a3ebe488da392083a
+#EXTINF:-1 tvg-id="mk_six.tamil" tvg-name="MK Six" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FMK_Six.png" tvg-type="News" tvg-language="Tamil" group-title="News",MK Six
+https://jiocdn.tulnit.fun/mm/play.php?id=a7c78a9f4709244cdab47a63837e452f
+#EXTINF:-1 tvg-id="mntv.tamil" tvg-name="MNTV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FcFNw4Af.png" tvg-type="News" tvg-language="Tamil" group-title="News",MNTV
+https://jiocdn.tulnit.fun/mm/play.php?id=5144eae5209af4f774ea416d7d2f9e8a
+#EXTINF:-1 tvg-id="moon_tv.tamil" tvg-name="Moon TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F3l25EZI.png" tvg-type="News" tvg-language="Tamil" group-title="News",Moon TV
+https://jiocdn.tulnit.fun/mm/play.php?id=753585a962d63579a2db52462ac934b1
+#EXTINF:-1 tvg-id="movieplex.tamil" tvg-name="Movieplex" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FTHJEAqJ.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Movieplex
+https://jiocdn.tulnit.fun/mm/play.php?id=7a78fa51990e2cca833e8295bbb53547
+#EXTINF:-1 tvg-id="mr_bean_animated.tamil" tvg-name="Mr. Bean Animated" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2F2%2F25%2FMr._Bean_Animated_Series_stacked_logo.png" tvg-type="Kids" tvg-language="Tamil" group-title="Kids",Mr. Bean Animated
+https://jiocdn.tulnit.fun/mm/play.php?id=4c2ec512d03ffba5dfb2f9d68685d48c
+#EXTINF:-1 tvg-id="music_india.tamil" tvg-name="Music India" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143563_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Music" tvg-language="Tamil" group-title="Music",Music India
+https://jiocdn.tulnit.fun/mm/play.php?id=2bcdeee165a5c54acdadd1cd00fb6dd9
+#EXTINF:-1 tvg-id="nagaland_tv.tamil" tvg-name="Nagaland TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FEBEIpPo.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Nagaland TV
+https://jiocdn.tulnit.fun/mm/play.php?id=2199eca0e4d4b2613a7352539de83bf9
+#EXTINF:-1 tvg-id="namdhari_404p.tamil" tvg-name="Namdhari (404p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FNalsXTo.png" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",Namdhari (404p
+https://jiocdn.tulnit.fun/mm/play.php?id=ab531525f3d8a590de2479a50a8c1f6f
+#EXTINF:-1 tvg-id="nandighosha_tv.tamil" tvg-name="Nandighosha TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNandighosha.png" tvg-type="News" tvg-language="Tamil" group-title="News",Nandighosha TV
+https://jiocdn.tulnit.fun/mm/play.php?id=73040f7bf4b0d54a1b6e90bf4c93d9cc
+#EXTINF:-1 tvg-id="ndtv_24x7.tamil" tvg-name="NDTV 24X7" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NDTV_24X7%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",NDTV 24X7
+https://jiocdn.tulnit.fun/mm/play.php?id=36d1df9da3faee14700c7264220aac77
+#EXTINF:-1 tvg-id="ndtv_good_times.tamil" tvg-name="NDTV Good Times" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_GOOD_TIMES%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",NDTV Good Times
+https://jiocdn.tulnit.fun/mm/play.php?id=d9e86fdc50cd8569ccc31b9d106deec6
+#EXTINF:-1 tvg-id="ndtv_india.tamil" tvg-name="NDTV India" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NDTV_INDIA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",NDTV India
+https://jiocdn.tulnit.fun/mm/play.php?id=aa1760a77bae3dc4e6242d79082642b3
+#EXTINF:-1 tvg-id="ndtv_madhya_pradesh_chhattisgarh.tamil" tvg-name="NDTV Madhya Pradesh Chhattisgarh" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NDTV_MPCG%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",NDTV Madhya Pradesh Chhattisgarh
+https://jiocdn.tulnit.fun/mm/play.php?id=1110c476b2a1cb28553986dda2330098
+#EXTINF:-1 tvg-id="ndtv_profit.tamil" tvg-name="NDTV Profit" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",NDTV Profit
+https://jiocdn.tulnit.fun/mm/play.php?id=64b309fd0530de578fef6d0e9fe9a475
+#EXTINF:-1 tvg-id="ndtv_rajasthan.tamil" tvg-name="NDTV Rajasthan" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NDTV_RAJASTHAN%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",NDTV Rajasthan
+https://jiocdn.tulnit.fun/mm/play.php?id=4dc16365b62d84a9f4722ff8cbb93fae
+#EXTINF:-1 tvg-id="ne_news.tamil" tvg-name="NE News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FL5GeJFb.png" tvg-type="News" tvg-language="Tamil" group-title="News",NE News
+https://jiocdn.tulnit.fun/mm/play.php?id=354f64ea90124133c3978152536ace7f
+#EXTINF:-1 tvg-id="nepal_1_396p.tamil" tvg-name="Nepal 1 (396p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143584_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Nepal 1 (396p
+https://jiocdn.tulnit.fun/mm/play.php?id=619a3894a6885c29adef864c6b3ab9fe
+#EXTINF:-1 tvg-id="network_10.tamil" tvg-name="Network 10" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNetwork_10.png" tvg-type="News" tvg-language="Tamil" group-title="News",Network 10
+https://jiocdn.tulnit.fun/mm/play.php?id=79f332e239570172a0cd75662df46168
+#EXTINF:-1 tvg-id="news_1st.tamil" tvg-name="News 1st" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143587_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",News 1st
+https://jiocdn.tulnit.fun/mm/play.php?id=816fb65abaedf2d0cc05129bd5b87664
+#EXTINF:-1 tvg-id="news_7_tamil.tamil" tvg-name="News 7 Tamil" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS7_TAMIL%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News 7 Tamil
+https://jiocdn.tulnit.fun/mm/play.php?id=43487b8f7772959bb48327f958163619
+#EXTINF:-1 tvg-id="news_11.tamil" tvg-name="News 11" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FNews11.png" tvg-type="News" tvg-language="Tamil" group-title="News",News 11
+https://jiocdn.tulnit.fun/mm/play.php?id=135fb8aeeb60515b1ccce0e4fbaec231
+#EXTINF:-1 tvg-id="news18_assam_northeast.tamil" tvg-name="News18 Assam North-East" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_ASSAM_NORTHSYMHYPEAST%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 Assam North-East
+https://jiocdn.tulnit.fun/mm/play.php?id=79b21109edbabafd201e0553ea504b2e
+#EXTINF:-1 tvg-id="news18_bangla.tamil" tvg-name="News18 Bangla" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_BANGLA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 Bangla
+https://jiocdn.tulnit.fun/mm/play.php?id=ed0239cc53dc3aabbffea65b5d2c472a
+#EXTINF:-1 tvg-id="news18_bihar_jharkhand.tamil" tvg-name="News18 Bihar Jharkhand" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FFQ3zDZE.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 Bihar Jharkhand
+https://jiocdn.tulnit.fun/mm/play.php?id=e05502cb397c09d4e5283346a481bcfa
+#EXTINF:-1 tvg-id="news18_gujarati.tamil" tvg-name="News18 Gujarati" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_GUJARATI%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 Gujarati
+https://jiocdn.tulnit.fun/mm/play.php?id=cd0632d9b00b0d1519b0ffdd37c3c71c
+#EXTINF:-1 tvg-id="news18_india.tamil" tvg-name="News18 India" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_INDIA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 India
+https://jiocdn.tulnit.fun/mm/play.php?id=c226c1983e762c464604809716ff6c75
+#EXTINF:-1 tvg-id="news18_jklh.tamil" tvg-name="News18 JKLH" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143611_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",News18 JKLH
+https://jiocdn.tulnit.fun/mm/play.php?id=27dc48e236e5e711633693dddf9aa0ee
+#EXTINF:-1 tvg-id="news18_kerala.tamil" tvg-name="News18 Kerala" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_KERALA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 Kerala
+https://jiocdn.tulnit.fun/mm/play.php?id=a8e9c6a2ce20156efdd35b8296385855
+#EXTINF:-1 tvg-id="news18_lokmat.tamil" tvg-name="News18 Lokmat" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_LOKMAT%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 Lokmat
+https://jiocdn.tulnit.fun/mm/play.php?id=9836c1bfa2f4dc46d5d918a6946a8030
+#EXTINF:-1 tvg-id="news18_madhya_pradeshchhattisgarh.tamil" tvg-name="News18 Madhya Pradesh/Chhattisgarh" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_MADHYA_PRADESH_CHHATTISGARH%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 Madhya Pradesh/Chhattisgarh
+https://jiocdn.tulnit.fun/mm/play.php?id=53f3b207cdf4daf7fcce4eb76e14e34d
+#EXTINF:-1 tvg-id="news18_odia.tamil" tvg-name="News18 Odia" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_ODIA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 Odia
+https://jiocdn.tulnit.fun/mm/play.php?id=7aac8f6d9c160ea2961c9b71f5b13ec3
+#EXTINF:-1 tvg-id="news18_punjabharyanahimachal.tamil" tvg-name="News18 Punjab/Haryana/Himachal" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_PUNJAB_HARYANA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 Punjab/Haryana/Himachal
+https://jiocdn.tulnit.fun/mm/play.php?id=c25c282dde6f1cc51047c0e43d52e26f
+#EXTINF:-1 tvg-id="news18_rajasthan.tamil" tvg-name="News18 Rajasthan" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_RAJASTHAN%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 Rajasthan
+https://jiocdn.tulnit.fun/mm/play.php?id=020f004b9483fc1b74f3e2f42fb70238
+#EXTINF:-1 tvg-id="news18_tamil_nadu.tamil" tvg-name="News18 Tamil Nadu" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_TAMIL_NADU%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 Tamil Nadu
+https://jiocdn.tulnit.fun/mm/play.php?id=f2f04d572d4ac0b84497a2cb69061800
+#EXTINF:-1 tvg-id="news18_urdu.tamil" tvg-name="News18 Urdu" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F8xnwMRR.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 Urdu
+https://jiocdn.tulnit.fun/mm/play.php?id=53d223ab44a8f891c2bea15fe5daff07
+#EXTINF:-1 tvg-id="news18_uttar_pradesh_uttarakhand.tamil" tvg-name="News18 Uttar Pradesh Uttarakhand" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS18_UTTAR_PRADESH_UTTARAKHAND%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News18 Uttar Pradesh Uttarakhand
+https://jiocdn.tulnit.fun/mm/play.php?id=9691265afdb79aee3b0c0e0f90aa3f7f
+#EXTINF:-1 tvg-id="news_daily_24.tamil" tvg-name="News Daily 24" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FlT8rihP.png" tvg-type="News" tvg-language="Tamil" group-title="News",News Daily 24
+https://jiocdn.tulnit.fun/mm/play.php?id=75cc33f05370510b56901b1517c89ed8
+#EXTINF:-1 tvg-id="news_j.tamil" tvg-name="News J" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS_J%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News J
+https://jiocdn.tulnit.fun/mm/play.php?id=abf1fcc67626a4fe6a3c91939687c216
+#EXTINF:-1 tvg-id="news_live.tamil" tvg-name="News Live" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS_LIVE%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News Live
+https://jiocdn.tulnit.fun/mm/play.php?id=fd25011f4ce2550e4c7141e3768c5085
+#EXTINF:-1 tvg-id="news_malayalam_24x7.tamil" tvg-name="News Malayalam 24x7" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS_MALAYALAM_24X7%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News Malayalam 24x7
+https://jiocdn.tulnit.fun/mm/play.php?id=f06bdcdaae42c36092545fbed0946ba9
+#EXTINF:-1 tvg-id="news_nation.tamil" tvg-name="News Nation" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS_NATION%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News Nation
+https://jiocdn.tulnit.fun/mm/play.php?id=bd4761b93f4aff6680e7cc292dded553
+#EXTINF:-1 tvg-id="news_tamil_24x7.tamil" tvg-name="News Tamil 24x7" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",News Tamil 24x7
+https://jiocdn.tulnit.fun/mm/play.php?id=7ab4c65272137b6364ff7990a9a91442
+#EXTINF:-1 tvg-id="nireekshana_tv.tamil" tvg-name="Nireekshana TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FnGJv6QR.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Nireekshana TV
+https://jiocdn.tulnit.fun/mm/play.php?id=8f3a393386f6d160f9d3006a5b06af9d
+#EXTINF:-1 tvg-id="nk_tv_24x7.tamil" tvg-name="NK TV 24x7" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_NK_TV_PLUS%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",NK TV 24x7
+https://jiocdn.tulnit.fun/mm/play.php?id=54432863cacc10d931d3a0567f905794
+#EXTINF:-1 tvg-id="ntc_tv.tamil" tvg-name="NTC TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Fntvtamil.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",NTC TV
+https://jiocdn.tulnit.fun/mm/play.php?id=921bc5d05a1e85ad1f36e1ca4c6cbce1
+#EXTINF:-1 tvg-id="odisha_tv.tamil" tvg-name="Odisha TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_OTV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Odisha TV
+https://jiocdn.tulnit.fun/mm/play.php?id=388e118628e276d1110486f4b2f207b6
+#EXTINF:-1 tvg-id="oli_tv.tamil" tvg-name="Oli TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.ibb.co%2FXfvTQyJn%2Fmain-removebg-preview.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Oli TV
+https://jiocdn.tulnit.fun/mm/play.php?id=f13a28bbb19a789fb43f76402a24426b
+#EXTINF:-1 tvg-id="om_tv.tamil" tvg-name="OM TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FOM_TV.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",OM TV
+https://jiocdn.tulnit.fun/mm/play.php?id=00d0742664b714068445d243ce92af8d
+#EXTINF:-1 tvg-id="orange_bangla_tv.tamil" tvg-name="Orange Bangla TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FwjSaHj5.png" tvg-type="News" tvg-language="Tamil" group-title="News",Orange Bangla TV
+https://jiocdn.tulnit.fun/mm/play.php?id=cc9b7f69cc5b6e32c33b443d573f4e17
+#EXTINF:-1 tvg-id="oscar_movies_bhojpuri.tamil" tvg-name="Oscar Movies Bhojpuri" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143638_ld_h9_ab.png%3Flock%3D720x540" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Oscar Movies Bhojpuri
+https://jiocdn.tulnit.fun/mm/play.php?id=284128f0d09f21298f0766582045cefc
+#EXTINF:-1 tvg-id="pasand_tv.tamil" tvg-name="Pasand TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG002NFYY1.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Pasand TV
+https://jiocdn.tulnit.fun/mm/play.php?id=e85597aa752bb844bc1ec572a870f87e
+#EXTINF:-1 tvg-id="peace_of_mind_tv.tamil" tvg-name="Peace Of Mind TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_PEACE_OF_MIND%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Peace Of Mind TV
+https://jiocdn.tulnit.fun/mm/play.php?id=da603227eb2dcba790d2a06ecded4f36
+#EXTINF:-1 tvg-id="peppers_tv_751p.tamil" tvg-name="Peppers TV (751p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FPeppers_TV.png" tvg-type="Music" tvg-language="Tamil" group-title="Music",Peppers TV (751p
+https://jiocdn.tulnit.fun/mm/play.php?id=55723877269f2e43ba897ac73897a550
+#EXTINF:-1 tvg-id="pmc_telugu.tamil" tvg-name="PMC Telugu" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FPMC_Telugu.png" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",PMC Telugu
+https://jiocdn.tulnit.fun/mm/play.php?id=ba756bfcbc3da8e04c01fc6d2bc230ff
+#EXTINF:-1 tvg-id="polimer_news.tamil" tvg-name="Polimer News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143664_ld_h9_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Polimer News
+https://jiocdn.tulnit.fun/mm/play.php?id=0dd0bb8fb12aa0f4781e63dc7495ca9f
+#EXTINF:-1 tvg-id="polimer_tv.tamil" tvg-name="Polimer TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143665_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Polimer TV
+https://jiocdn.tulnit.fun/mm/play.php?id=5a474a616417b9628fa5a8b805b70e6b
+#EXTINF:-1 tvg-id="pratidin_time.tamil" tvg-name="Pratidin Time" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_PRATIDIN_TIME%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Pratidin Time
+https://jiocdn.tulnit.fun/mm/play.php?id=28bbfbc4a084dc1e824ec6b3df8322bd
+#EXTINF:-1 tvg-id="pravasi_channel.tamil" tvg-name="Pravasi Channel" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F1dHarb7.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Pravasi Channel
+https://jiocdn.tulnit.fun/mm/play.php?id=20698a26b593822e0f10befe60109231
+#EXTINF:-1 tvg-id="prime9_news.tamil" tvg-name="Prime9 News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FPrime_9_News.png" tvg-type="News" tvg-language="Tamil" group-title="News",Prime9 News
+https://jiocdn.tulnit.fun/mm/play.php?id=30fa0db7c2becbd9520a65823c0f6437
+#EXTINF:-1 tvg-id="prudent_media.tamil" tvg-name="Prudent Media" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FDG0x4UD.png" tvg-type="News" tvg-language="Tamil" group-title="News",Prudent Media
+https://jiocdn.tulnit.fun/mm/play.php?id=fa490b222721c5b77cc4b8f37d86c3fc
+#EXTINF:-1 tvg-id="ptc_chakde.tamil" tvg-name="PTC Chakde" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_PTC_CHAKDE%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",PTC Chakde
+https://jiocdn.tulnit.fun/mm/play.php?id=eddfd1fd64643b580f332c5e3b79f8da
+#EXTINF:-1 tvg-id="ptc_music.tamil" tvg-name="PTC Music" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_PTC_MUSIC%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",PTC Music
+https://jiocdn.tulnit.fun/mm/play.php?id=74cfaa2538bb03f1527e4e816867f2ab
+#EXTINF:-1 tvg-id="ptc_news.tamil" tvg-name="PTC News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_PTC_NEWS%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",PTC News
+https://jiocdn.tulnit.fun/mm/play.php?id=1401cdec064df0aa89d1c8f0f9d94c44
+#EXTINF:-1 tvg-id="ptc_punjabi.tamil" tvg-name="PTC Punjabi" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_PTC_PUNJABI%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",PTC Punjabi
+https://jiocdn.tulnit.fun/mm/play.php?id=bbcd2ed888f1131649124344257cdf06
+#EXTINF:-1 tvg-id="ptc_punjabi_gold.tamil" tvg-name="PTC Punjabi Gold" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",PTC Punjabi Gold
+https://jiocdn.tulnit.fun/mm/play.php?id=e5b30bc28765c2b1be61b2349c3a165d
+#EXTINF:-1 tvg-id="public_movies.tamil" tvg-name="Public Movies" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_PUBLIC_MOVIES%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Public Movies
+https://jiocdn.tulnit.fun/mm/play.php?id=a798859dfd7378b2d4eed002b7782518
+#EXTINF:-1 tvg-id="public_music.tamil" tvg-name="Public Music" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_PUBLIC_MUSIC%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Public Music
+https://jiocdn.tulnit.fun/mm/play.php?id=8627ddec5bfcb8b647e73c920789af3a
+#EXTINF:-1 tvg-id="public_tv.tamil" tvg-name="Public TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_PUBLIC_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Public TV
+https://jiocdn.tulnit.fun/mm/play.php?id=c360e385a435447019a042d5a0bb084c
+#EXTINF:-1 tvg-id="pulari_tv.tamil" tvg-name="Pulari TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fv5urG30.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Pulari TV
+https://jiocdn.tulnit.fun/mm/play.php?id=dc3644433c2d158e360fc00b0b44bbef
+#EXTINF:-1 tvg-id="punjabi_hits.tamil" tvg-name="Punjabi Hits" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_PUNJABI_HITS%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Punjabi Hits
+https://jiocdn.tulnit.fun/mm/play.php?id=13f5e886d0d1495b5d07c351fccd81b3
+#EXTINF:-1 tvg-id="puthiya_thalaimurai.tamil" tvg-name="Puthiya Thalaimurai" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143692_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Puthiya Thalaimurai
+https://jiocdn.tulnit.fun/mm/play.php?id=632e8670c53be599285f121be0347ae6
+#EXTINF:-1 tvg-id="puthuyugam_tv.tamil" tvg-name="Puthuyugam TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143693_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Puthuyugam TV
+https://jiocdn.tulnit.fun/mm/play.php?id=1bd00cf896dd30a6f1432635888c3e21
+#EXTINF:-1 tvg-id="qello_concerts_by_stingray.tamil" tvg-name="Qello Concerts by Stingray" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FIRyFTWq.png" tvg-type="News" tvg-language="Tamil" group-title="News",Qello Concerts by Stingray
+https://jiocdn.tulnit.fun/mm/play.php?id=939e8b776d1129f21552e73643154eae
+#EXTINF:-1 tvg-id="r_plus_768p.tamil" tvg-name="R Plus (768p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FXUnWcZF.png" tvg-type="News" tvg-language="Tamil" group-title="News",R Plus (768p
+https://jiocdn.tulnit.fun/mm/play.php?id=5f08ffbbda2b2ccd503e757b6942daf2
+#EXTINF:-1 tvg-id="raftaar_media.tamil" tvg-name="Raftaar Media" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="General" tvg-language="Tamil" group-title="General",Raftaar Media
+https://jiocdn.tulnit.fun/mm/play.php?id=f61de747fb779e44acd06f30ec521c32
+#EXTINF:-1 tvg-id="raj_musix_malayalam.tamil" tvg-name="Raj Musix Malayalam" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Raj Musix Malayalam
+https://jiocdn.tulnit.fun/mm/play.php?id=226f80882e21c3c449fa3974b8b379db
+#EXTINF:-1 tvg-id="raj_musix_telugu.tamil" tvg-name="Raj Musix Telugu" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Raj Musix Telugu
+https://jiocdn.tulnit.fun/mm/play.php?id=3cc08b471cb119da4f53daf9555a578b
+#EXTINF:-1 tvg-id="raj_news_kannada.tamil" tvg-name="Raj News Kannada" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_RAJ_NEWS_KANNADA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Raj News Kannada
+https://jiocdn.tulnit.fun/mm/play.php?id=0b8ad589b3841cb6080827233a12d3b3
+#EXTINF:-1 tvg-id="raj_news_malayalam.tamil" tvg-name="Raj News Malayalam" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_RAJ_NEWS_MALAYALAM%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Raj News Malayalam
+https://jiocdn.tulnit.fun/mm/play.php?id=d4565d59d2a694007ac737fc5f3bfe3a
+#EXTINF:-1 tvg-id="raj_news_telugu.tamil" tvg-name="Raj News Telugu" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_RAJ_NEWS_TELUGU%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Raj News Telugu
+https://jiocdn.tulnit.fun/mm/play.php?id=b0146a46798fbdd9e6c8a24634c79f81
+#EXTINF:-1 tvg-id="raj_tv.tamil" tvg-name="Raj TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_RAJ_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Raj TV
+https://jiocdn.tulnit.fun/mm/play.php?id=600d29505cbcdcbe28800d394ee30bd8
+#EXTINF:-1 tvg-id="ramdhenu.tamil" tvg-name="Ramdhenu" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143717_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Ramdhenu
+https://jiocdn.tulnit.fun/mm/play.php?id=ed9ad047a7c0deab045eff0329fd7b9c
+#EXTINF:-1 tvg-id="rang.tamil" tvg-name="Rang" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_RANG%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Rang
+https://jiocdn.tulnit.fun/mm/play.php?id=206d09ea128d3b833439e7cf920fb1c4
+#EXTINF:-1 tvg-id="rdx_goa.tamil" tvg-name="RDX Goa" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FRDX_News.png" tvg-type="News" tvg-language="Tamil" group-title="News",RDX Goa
+https://jiocdn.tulnit.fun/mm/play.php?id=fc3caf83566e9c8aaf0f37ada10364f0
+#EXTINF:-1 tvg-id="real_news_kerala.tamil" tvg-name="Real News Kerala" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FReal_News_Kerala.png" tvg-type="News" tvg-language="Tamil" group-title="News",Real News Kerala
+https://jiocdn.tulnit.fun/mm/play.php?id=65e3b383b5b82fd18b1adf45768d4d95
+#EXTINF:-1 tvg-id="rengoni.tamil" tvg-name="Rengoni" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143722_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Rengoni
+https://jiocdn.tulnit.fun/mm/play.php?id=3a8f09aaa3ded5f79d932f53339f05ea
+#EXTINF:-1 tvg-id="reporter_tv.tamil" tvg-name="Reporter TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs85096_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Reporter TV
+https://jiocdn.tulnit.fun/mm/play.php?id=dc645b5977995105aa71fd1b1768f479
+#EXTINF:-1 tvg-id="republic_bangla.tamil" tvg-name="Republic Bangla" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_RSYMDOT_BANGLA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Republic Bangla
+https://jiocdn.tulnit.fun/mm/play.php?id=e15a5ee76318895982cacd226c4378cd
+#EXTINF:-1 tvg-id="republic_bharat.tamil" tvg-name="Republic Bharat" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143724_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Republic Bharat
+https://jiocdn.tulnit.fun/mm/play.php?id=55949dbd0330f0dcb862991820f1a790
+#EXTINF:-1 tvg-id="republic_kannada.tamil" tvg-name="Republic Kannada" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_RSYMDOTKANNADA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Republic Kannada
+https://jiocdn.tulnit.fun/mm/play.php?id=2e5fccd7adfd9897c72bedf576669213
+#EXTINF:-1 tvg-id="republic_tv.tamil" tvg-name="Republic TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143723_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Republic TV
+https://jiocdn.tulnit.fun/mm/play.php?id=0f53c5753643d35a9775b20b08a0bbc7
+#EXTINF:-1 tvg-id="roja_movies.tamil" tvg-name="Roja Movies" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Frojamovies.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Roja Movies
+https://jiocdn.tulnit.fun/mm/play.php?id=c809fc8740a85b1ad572cad20d00e8f2
+#EXTINF:-1 tvg-id="roja_tv.tamil" tvg-name="Roja TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Frojatv.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Roja TV
+https://jiocdn.tulnit.fun/mm/play.php?id=c0ddbb0411a4a1fea231f7f1d46dd086
+#EXTINF:-1 tvg-id="rongeen_tv.tamil" tvg-name="Rongeen TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_RONGEEN_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Rongeen TV
+https://jiocdn.tulnit.fun/mm/play.php?id=0dce916da17c36bb536d77a41111417f
+#EXTINF:-1 tvg-id="saam_tv.tamil" tvg-name="Saam TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SAAM_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Saam TV
+https://jiocdn.tulnit.fun/mm/play.php?id=6931e4062cf2368cd7f3fe475eefc67a
+#EXTINF:-1 tvg-id="sadhna.tamil" tvg-name="Sadhna" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SADHNA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",Sadhna
+https://jiocdn.tulnit.fun/mm/play.php?id=0c2f4601044f841c8dd9125aafc48d86
+#EXTINF:-1 tvg-id="sadhna_plus_news.tamil" tvg-name="Sadhna Plus News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSadhna_News_Plus.png" tvg-type="News" tvg-language="Tamil" group-title="News",Sadhna Plus News
+https://jiocdn.tulnit.fun/mm/play.php?id=0fb5d84e499b98e2a31845c6314f1f3b
+#EXTINF:-1 tvg-id="safari_tv.tamil" tvg-name="Safari TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SAFARI_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Safari TV
+https://jiocdn.tulnit.fun/mm/play.php?id=d124d275a265b944e1b06d8ffc6056e6
+#EXTINF:-1 tvg-id="sahana_news.tamil" tvg-name="Sahana News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F3odbJJq.png" tvg-type="News" tvg-language="Tamil" group-title="News",Sahana News
+https://jiocdn.tulnit.fun/mm/play.php?id=0858d7d5feecfdde2c48f6b0a24d3e12
+#EXTINF:-1 tvg-id="salaam_tv.tamil" tvg-name="Salaam TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs144466_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Salaam TV
+https://jiocdn.tulnit.fun/mm/play.php?id=284da7f813094a40e6c5a91bd557edc4
+#EXTINF:-1 tvg-id="salvation_tv.tamil" tvg-name="Salvation TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fcontent.jdmagicbox.com%2Fcomp%2Fbangalore%2Fl5%2F080pxx80.xx80.150207120517.e4l5%2Fcatalogue%2Fsalvation-tv-network-pvt-m-g-road-bangalore-religious-organizations-1sabn2d.jpg" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Salvation TV
+https://jiocdn.tulnit.fun/mm/play.php?id=cc032f12737ff75f17797011ad07a7ff
+#EXTINF:-1 tvg-id="samay_kolkata.tamil" tvg-name="Samay Kolkata" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSamay_Kolkata.png" tvg-type="News" tvg-language="Tamil" group-title="News",Samay Kolkata
+https://jiocdn.tulnit.fun/mm/play.php?id=5384698839ed50be71209f817b3d31fb
+#EXTINF:-1 tvg-id="sana_plus.tamil" tvg-name="Sana Plus" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FN6tKUZv.png" tvg-type="Music" tvg-language="Tamil" group-title="Music",Sana Plus
+https://jiocdn.tulnit.fun/mm/play.php?id=33225a7792715cb6358be4ca128e7f42
+#EXTINF:-1 tvg-id="sandesh_news.tamil" tvg-name="Sandesh News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143755_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Sandesh News
+https://jiocdn.tulnit.fun/mm/play.php?id=27512d5561de84356e7e9e3397375853
+#EXTINF:-1 tvg-id="sangeet_bangla.tamil" tvg-name="Sangeet Bangla" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FtransparentImages%2FSangeet%2520Bangla.png" tvg-type="News" tvg-language="Tamil" group-title="News",Sangeet Bangla
+https://jiocdn.tulnit.fun/mm/play.php?id=e99e3e548b68b9f1a73108099eaa1635
+#EXTINF:-1 tvg-id="sangeet_bhojpuri.tamil" tvg-name="Sangeet Bhojpuri" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143757_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Sangeet Bhojpuri
+https://jiocdn.tulnit.fun/mm/play.php?id=eed8260b9b681aeabf6f29c883e1f8d5
+#EXTINF:-1 tvg-id="sangeet_marathi.tamil" tvg-name="Sangeet Marathi" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SANGEET_MARATHI%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Sangeet Marathi
+https://jiocdn.tulnit.fun/mm/play.php?id=808921ff6c5994d5640993f9dd157204
+#EXTINF:-1 tvg-id="sankara_tv.tamil" tvg-name="Sankara TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F2z0bDRD.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Sankara TV
+https://jiocdn.tulnit.fun/mm/play.php?id=d131d0331541ff1665ad55e499aaedd2
+#EXTINF:-1 tvg-id="sansad_tv_1.tamil" tvg-name="Sansad TV 1" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD%2Fimages%2FLOGO_HD%2FLOGO_HD_image.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Sansad TV 1
+https://jiocdn.tulnit.fun/mm/play.php?id=0e32df4e8eb53df4323cef44820b239f
+#EXTINF:-1 tvg-id="sansad_tv_2.tamil" tvg-name="Sansad TV 2" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143761_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Sansad TV 2
+https://jiocdn.tulnit.fun/mm/play.php?id=4de2bd6315b75fe75e4383347b72a3f3
+#EXTINF:-1 tvg-id="sanskar_tv.tamil" tvg-name="Sanskar TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SANSKAR%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Sanskar TV
+https://jiocdn.tulnit.fun/mm/play.php?id=e73cb026417c308a3341ea654b986b5c
+#EXTINF:-1 tvg-id="sanskar_web_tv.tamil" tvg-name="Sanskar Web TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2Fmu2B6hw.png" tvg-type="News" tvg-language="Tamil" group-title="News",Sanskar Web TV
+https://jiocdn.tulnit.fun/mm/play.php?id=d8ee7bab9f320638b7de2d25c474430a
+#EXTINF:-1 tvg-id="santvani_channel.tamil" tvg-name="Santvani Channel" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143763_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Santvani Channel
+https://jiocdn.tulnit.fun/mm/play.php?id=103be09ccb61a614424f8ba70b851c73
+#EXTINF:-1 tvg-id="sathiyam_tv.tamil" tvg-name="Sathiyam TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143765_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Sathiyam TV
+https://jiocdn.tulnit.fun/mm/play.php?id=939d915284d7b64f6a6057762fc7fc75
+#EXTINF:-1 tvg-id="satsang_tv.tamil" tvg-name="Satsang TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SATSANG%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Satsang TV
+https://jiocdn.tulnit.fun/mm/play.php?id=88263ec67521cbc0a1977595b909be67
+#EXTINF:-1 tvg-id="satsang_web_tv.tamil" tvg-name="Satsang Web TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F40kNu1w.png" tvg-type="News" tvg-language="Tamil" group-title="News",Satsang Web TV
+https://jiocdn.tulnit.fun/mm/play.php?id=f5ca9146236c58f4d62300b9a4b6a917
+#EXTINF:-1 tvg-id="shalini_tv.tamil" tvg-name="Shalini TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FfDdG6Y2.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Shalini TV
+https://jiocdn.tulnit.fun/mm/play.php?id=0e02d1001386b5f20bb766aab6b9144e
+#EXTINF:-1 tvg-id="shalom.tamil" tvg-name="Shalom" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143774_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Shalom
+https://jiocdn.tulnit.fun/mm/play.php?id=728ba6036650e7f7bded8906017d4d15
+#EXTINF:-1 tvg-id="shemaroo_josh.tamil" tvg-name="Shemaroo Josh" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG00297P3E.png%3Flock%3D720x540" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Shemaroo Josh
+https://jiocdn.tulnit.fun/mm/play.php?id=9bb2f228de4306a213356487d856a7e5
+#EXTINF:-1 tvg-id="shemaroo_tv.tamil" tvg-name="Shemaroo TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SHEMAROO_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Shemaroo TV
+https://jiocdn.tulnit.fun/mm/play.php?id=6af8a7357985aad5fc1ef9204a489292
+#EXTINF:-1 tvg-id="shemaroo_umang.tamil" tvg-name="Shemaroo Umang" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SHEMAROO_UMANG%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Shemaroo Umang
+https://jiocdn.tulnit.fun/mm/play.php?id=29d7f16babf8b43e464b2670d2aac929
+#EXTINF:-1 tvg-id="shubh_cinema_tv.tamil" tvg-name="Shubh Cinema TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FRQhorAG.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Shubh Cinema TV
+https://jiocdn.tulnit.fun/mm/play.php?id=fa7d05558f752c161eaff16944e8e54e
+#EXTINF:-1 tvg-id="shubh_tv.tamil" tvg-name="Shubh TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SHUBH_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Shubh TV
+https://jiocdn.tulnit.fun/mm/play.php?id=e5718db9f21c8f6464f68a80643ceeac
+#EXTINF:-1 tvg-id="shubhsandesh_tv.tamil" tvg-name="Shubhsandesh TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SHUBHSANDESH_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Shubhsandesh TV
+https://jiocdn.tulnit.fun/mm/play.php?id=e1b301bc6137814bcbc046147fd22eeb
+#EXTINF:-1 tvg-id="siri_kannada.kannada" tvg-name="Siri Kannada" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143790_ld_h9_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Kannada" group-title="News",Siri Kannada
+https://jiocdn.tulnit.fun/mm/play.php?id=d32a3f99c5758a1cb1082724b59c8aed
+#EXTINF:-1 tvg-id="songdew_tv_396p.tamil" tvg-name="Songdew TV (396p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs142920_ld_h9_aa.png%3Flock%3D720x540" tvg-type="Music" tvg-language="Tamil" group-title="Music",Songdew TV (396p
+https://jiocdn.tulnit.fun/mm/play.php?id=1224b71b07f31b505ac6fd48340027c7
+#EXTINF:-1 tvg-id="sooriyan_tv.tamil" tvg-name="Sooriyan TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.ibb.co%2FLSyydKj%2FSooriyan-TV-Tamil.jpg" tvg-type="News" tvg-language="Tamil" group-title="News",Sooriyan TV
+https://jiocdn.tulnit.fun/mm/play.php?id=421efade89f1600cd075a84ed2c78358
+#EXTINF:-1 tvg-id="starnet.tamil" tvg-name="Starnet" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FJ3jB7Kr.png" tvg-type="News" tvg-language="Tamil" group-title="News",Starnet
+https://jiocdn.tulnit.fun/mm/play.php?id=3d24160d7e6504dfb2a2cfef3910260a
+#EXTINF:-1 tvg-id="steelbird_music.tamil" tvg-name="Steelbird Music" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSteelbird_Music.png" tvg-type="News" tvg-language="Tamil" group-title="News",Steelbird Music
+https://jiocdn.tulnit.fun/mm/play.php?id=02f535216df629908286bfd3b80d02ac
+#EXTINF:-1 tvg-id="stingray_classic_rock.tamil" tvg-name="Stingray Classic Rock" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FFBgu8yB.png" tvg-type="News" tvg-language="Tamil" group-title="News",Stingray Classic Rock
+https://jiocdn.tulnit.fun/mm/play.php?id=7153e0c4a48cf8434bc7fb9ad9d0a964
+#EXTINF:-1 tvg-id="stingray_djazz.tamil" tvg-name="Stingray DJAZZ" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F14%2FStingray_Djazz.png%2F960px-Stingray_Djazz.png" tvg-type="News" tvg-language="Tamil" group-title="News",Stingray DJAZZ
+https://jiocdn.tulnit.fun/mm/play.php?id=2fbf3562a2cf530825ddf53d4c4022ea
+#EXTINF:-1 tvg-id="stingray_easy_listening.tamil" tvg-name="Stingray Easy Listening" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F5b%2FStingray_Music_logo.svg%2F960px-Stingray_Music_logo.svg.png" tvg-type="News" tvg-language="Tamil" group-title="News",Stingray Easy Listening
+https://jiocdn.tulnit.fun/mm/play.php?id=1f600c2c44d4541ac42527288185a93d
+#EXTINF:-1 tvg-id="stingray_naturescape.tamil" tvg-name="Stingray Naturescape" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2F882kd90.png" tvg-type="News" tvg-language="Tamil" group-title="News",Stingray Naturescape
+https://jiocdn.tulnit.fun/mm/play.php?id=3cf0406fb2b289b15c96517f4122c8d0
+#EXTINF:-1 tvg-id="stingray_the_spa.tamil" tvg-name="Stingray The Spa" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FywAN923.png" tvg-type="News" tvg-language="Tamil" group-title="News",Stingray The Spa
+https://jiocdn.tulnit.fun/mm/play.php?id=a5c5a97bd1a7e7e64c549d86ca618d66
+#EXTINF:-1 tvg-id="stingray_todays_kpop.tamil" tvg-name="Stingray Today's KPOP" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FmMbntB5.png" tvg-type="News" tvg-language="Tamil" group-title="News",Stingray Today's KPOP
+https://jiocdn.tulnit.fun/mm/play.php?id=901257b0f4c1216c7176911aa4e49a54
+#EXTINF:-1 tvg-id="studio_one.tamil" tvg-name="Studio One +" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FyOPB7JB.png" tvg-type="News" tvg-language="Tamil" group-title="News",Studio One +
+https://jiocdn.tulnit.fun/mm/play.php?id=b558dcbbf5d254efe72b07307ed8ad04
+#EXTINF:-1 tvg-id="studio_yuva.tamil" tvg-name="Studio Yuva" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FBOhgz2T.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Studio Yuva
+https://jiocdn.tulnit.fun/mm/play.php?id=8c4132bf2f05a57d3d1c6f174cac0f2e
+#EXTINF:-1 tvg-id="subhavaartha_tv.tamil" tvg-name="Subhavaartha TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SUBHAVAARTHA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Subhavaartha TV
+https://jiocdn.tulnit.fun/mm/play.php?id=926b20644ef9906d916a89de2bff6462
+#EXTINF:-1 tvg-id="subin_tv.tamil" tvg-name="Subin TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Fsubintvtamil.png" tvg-type="News" tvg-language="Tamil" group-title="News",Subin TV
+https://jiocdn.tulnit.fun/mm/play.php?id=34af7769706f478008194fce2ef9d1ef
+#EXTINF:-1 tvg-id="sudarshan_news.tamil" tvg-name="Sudarshan News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_SUDARSHAN_NEWS%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Sudarshan News
+https://jiocdn.tulnit.fun/mm/play.php?id=086ee3c2a175c258abdabd5cb3a1d6a5
+#EXTINF:-1 tvg-id="suriyan_tv.tamil" tvg-name="Suriyan TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Fsuriyantvtamil.png" tvg-type="News" tvg-language="Tamil" group-title="News",Suriyan TV
+https://jiocdn.tulnit.fun/mm/play.php?id=a245f98899375c7380674ff6fdec1a44
+#EXTINF:-1 tvg-id="svbc_2.tamil" tvg-name="SVBC 2" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143890_ld_h9_aa.png%3Flock%3D720x540" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",SVBC 2
+https://jiocdn.tulnit.fun/mm/play.php?id=1ae328ec80793ae7fff35ca1b51657b0
+#EXTINF:-1 tvg-id="svbc_3.tamil" tvg-name="SVBC 3" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSVBC3.png" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",SVBC 3
+https://jiocdn.tulnit.fun/mm/play.php?id=ce9c73f8ab51d0250789c94ff13a06f8
+#EXTINF:-1 tvg-id="svbc_4.tamil" tvg-name="SVBC 4" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSVBC4.png" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",SVBC 4
+https://jiocdn.tulnit.fun/mm/play.php?id=6a7b918630fa2a13da24453d738921ee
+#EXTINF:-1 tvg-id="svbc_sri_venkateswara_bhakti_channel.tamil" tvg-name="SVBC Sri Venkateswara Bhakti Channel" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143889_ld_h9_ab.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",SVBC Sri Venkateswara Bhakti Channel
+https://jiocdn.tulnit.fun/mm/play.php?id=746cc36a3a613dea85831a468e4abe0e
+#EXTINF:-1 tvg-id="swadesh_news.tamil" tvg-name="Swadesh News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSwadesh_News.png" tvg-type="News" tvg-language="Tamil" group-title="News",Swadesh News
+https://jiocdn.tulnit.fun/mm/play.php?id=b4ee082bfad84882f32acb499bb61aab
+#EXTINF:-1 tvg-id="swaraj_express_smbc.tamil" tvg-name="Swaraj Express SMBC" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSMBC_TV.png" tvg-type="News" tvg-language="Tamil" group-title="News",Swaraj Express SMBC
+https://jiocdn.tulnit.fun/mm/play.php?id=3c866a79bc89166b99b2dd9e02e9167f
+#EXTINF:-1 tvg-id="swatantra_tv.tamil" tvg-name="Swatantra TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FSwatantra_News.png" tvg-type="News" tvg-language="Tamil" group-title="News",Swatantra TV
+https://jiocdn.tulnit.fun/mm/play.php?id=e00b634abaa6cec761183b12af181cef
+#EXTINF:-1 tvg-id="t_news.tamil" tvg-name="T News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs143919_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",T News
+https://jiocdn.tulnit.fun/mm/play.php?id=34d23d185581c0f1802069927ee4ed61
+#EXTINF:-1 tvg-id="tamilan_tv.tamil" tvg-name="Tamilan TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FTamilan_Television.png" tvg-type="News" tvg-language="Tamil" group-title="News",Tamilan TV
+https://jiocdn.tulnit.fun/mm/play.php?id=7477851afd2c768b34ed15e127f3c96a
+#EXTINF:-1 tvg-id="tamilvisiontv.tamil" tvg-name="TamilVision-TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FDodsLuW.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",TamilVision-TV
+https://jiocdn.tulnit.fun/mm/play.php?id=483ba1ecb2ba6a0d6eeb4b3046898334
+#EXTINF:-1 tvg-id="tarang_tv.tamil" tvg-name="Tarang TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TARANG%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Tarang TV
+https://jiocdn.tulnit.fun/mm/play.php?id=31fb99a5389cb15df3114961d915b512
+#EXTINF:-1 tvg-id="tehzeeb_tv.tamil" tvg-name="Tehzeeb TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FPCVOdup.png" tvg-type="News" tvg-language="Tamil" group-title="News",Tehzeeb TV
+https://jiocdn.tulnit.fun/mm/play.php?id=86de9c9658bce1157eca0324fd8ab47f
+#EXTINF:-1 tvg-id="telugu_one.tamil" tvg-name="Telugu One" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdvvlqr1rtlak3.cloudfront.net%2FTeluguOne%2Fteluguone_logo_resized_400x200.png" tvg-type="News" tvg-language="Tamil" group-title="News",Telugu One
+https://jiocdn.tulnit.fun/mm/play.php?id=31ac06f12738dd9142bcceecfe0031a9
+#EXTINF:-1 tvg-id="thalaa_tv.tamil" tvg-name="Thalaa TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fd229kpbsb5jevy.cloudfront.net%2Fyuppfast%2Fcontent%2Fcommon%2Fchannel%2Flogos%2Fthalaa-tv.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Thalaa TV
+https://jiocdn.tulnit.fun/mm/play.php?id=c891ea79696079ba13355c92bb6a2dfc
+#EXTINF:-1 tvg-id="thanthi_one.tamil" tvg-name="Thanthi One" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs158791_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Thanthi One
+https://jiocdn.tulnit.fun/mm/play.php?id=c058b0c70275d65268ffca23e6b62a47
+#EXTINF:-1 tvg-id="thanthi_tv.tamil" tvg-name="Thanthi TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs144000_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Thanthi TV
+https://jiocdn.tulnit.fun/mm/play.php?id=0824afef6b5b08c389049c895f159084
+#EXTINF:-1 tvg-id="the_pet_collective.tamil" tvg-name="The Pet Collective" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FyH7n2dF.png" tvg-type="News" tvg-language="Tamil" group-title="News",The Pet Collective
+https://jiocdn.tulnit.fun/mm/play.php?id=d8afb0be5b7701ce22c88030fdf146c5
+#EXTINF:-1 tvg-id="times_now_navbharat.tamil" tvg-name="Times Now Navbharat" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TIMES_NOW_NAVBHARAT_HD%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Times Now Navbharat
+https://jiocdn.tulnit.fun/mm/play.php?id=5f2f46ec57633b617085b3cd07a515e1
+#EXTINF:-1 tvg-id="tolly_tv.tamil" tvg-name="Tolly TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fd229kpbsb5jevy.cloudfront.net%2Fyuppfast%2Fcontent%2Fcommon%2Fchannel%2Flogos%2Faumnrs.png" tvg-type="Movies" tvg-language="Tamil" group-title="Movies",Tolly TV
+https://jiocdn.tulnit.fun/mm/play.php?id=d0f4c8efe3190a89b00e1ebf6a769c1d
+#EXTINF:-1 tvg-id="total_bhakti.tamil" tvg-name="Total Bhakti" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FLPwRdmF.png" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",Total Bhakti
+https://jiocdn.tulnit.fun/mm/play.php?id=f45226365d77befd8d2c54c30be54ad8
+#EXTINF:-1 tvg-id="total_tv_haryana.tamil" tvg-name="Total TV Haryana" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TOTAL_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Total TV Haryana
+https://jiocdn.tulnit.fun/mm/play.php?id=01fd0fad7e2882a617d5f0e1d8c6f9e7
+#EXTINF:-1 tvg-id="travelxp_4k_hdr_2160p.tamil" tvg-name="Travelxp 4K HDR (2160p" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TRAVELXP%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Travelxp 4K HDR (2160p
+https://jiocdn.tulnit.fun/mm/play.php?id=03b31a27dc809a5700928d2fafebf184
+#EXTINF:-1 tvg-id="tunes_6.tamil" tvg-name="Tunes 6" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FTunes_6.png" tvg-type="Music" tvg-language="Tamil" group-title="Music",Tunes 6
+https://jiocdn.tulnit.fun/mm/play.php?id=680cc4d1762d062dfecd0d1617ddff5d
+#EXTINF:-1 tvg-id="tv5_kannada.tamil" tvg-name="TV5 Kannada" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs144024_ld_h15_aa.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",TV5 Kannada
+https://jiocdn.tulnit.fun/mm/play.php?id=afe4aaf9644646329e679870ee32734b
+#EXTINF:-1 tvg-id="tv9_bangla.tamil" tvg-name="TV9 Bangla" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TV9_BANGLA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",TV9 Bangla
+https://jiocdn.tulnit.fun/mm/play.php?id=be1021f0c821544f6c12051ac1f57337
+#EXTINF:-1 tvg-id="tv9_bharatvarsh.tamil" tvg-name="TV9 Bharatvarsh" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TV9_BHARATVARSH%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",TV9 Bharatvarsh
+https://jiocdn.tulnit.fun/mm/play.php?id=25d11c9dee161d02e5e44cd9af733c45
+#EXTINF:-1 tvg-id="tv9_gujarati.tamil" tvg-name="TV9 Gujarati" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TV9_GUJARATI%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",TV9 Gujarati
+https://jiocdn.tulnit.fun/mm/play.php?id=54310f07b050bf76db63b21bf2780e61
+#EXTINF:-1 tvg-id="tv9_marathi.tamil" tvg-name="TV9 Marathi" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TV9_MARATHI%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",TV9 Marathi
+https://jiocdn.tulnit.fun/mm/play.php?id=5c2f4b8844cb7588c9be53bb95cc539e
+#EXTINF:-1 tvg-id="tv9_telugu.tamil" tvg-name="TV9 Telugu" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",TV9 Telugu
+https://jiocdn.tulnit.fun/mm/play.php?id=0febe05be707328152e92bea6edb3095
+#EXTINF:-1 tvg-id="ultimate_tv.tamil" tvg-name="Ultimate TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Futvtamil.png" tvg-type="News" tvg-language="Tamil" group-title="News",Ultimate TV
+https://jiocdn.tulnit.fun/mm/play.php?id=e0782fd01df9cd9d4df573a30101f236
+#EXTINF:-1 tvg-id="unique_tv.tamil" tvg-name="Unique TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FUnique_Tv.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Unique TV
+https://jiocdn.tulnit.fun/mm/play.php?id=eb6885df571e34c34112bb1afcb54066
+#EXTINF:-1 tvg-id="vaanavil_tv.tamil" tvg-name="Vaanavil TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FVaanavil_TV.png" tvg-type="Music" tvg-language="Tamil" group-title="Music",Vaanavil TV
+https://jiocdn.tulnit.fun/mm/play.php?id=5cee50bcabd573a1864a35ee47f1ffde
+#EXTINF:-1 tvg-id="vanitha_tv.tamil" tvg-name="Vanitha TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_VANITHA%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Vanitha TV
+https://jiocdn.tulnit.fun/mm/play.php?id=240dbdea0ee29d56ea49416ae897ffb3
+#EXTINF:-1 tvg-id="vasanth_tv.tamil" tvg-name="Vasanth TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs144068_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Vasanth TV
+https://jiocdn.tulnit.fun/mm/play.php?id=664c2cbc3e697c1ab4f6b39f590dfc76
+#EXTINF:-1 tvg-id="vbc_news.tamil" tvg-name="VBC News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FSvXCjha.png" tvg-type="News" tvg-language="Tamil" group-title="News",VBC News
+https://jiocdn.tulnit.fun/mm/play.php?id=61e5f111b11cf71aec4075640967cc93
+#EXTINF:-1 tvg-id="vcv.tamil" tvg-name="VCV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FKbU36xI.png" tvg-type="News" tvg-language="Tamil" group-title="News",VCV
+https://jiocdn.tulnit.fun/mm/play.php?id=e305362a607adc93f4b91951671bc309
+#EXTINF:-1 tvg-id="vedic.tamil" tvg-name="Vedic" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2Fs144069_ld_h15_aa.png%3Flock%3D720x540" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",Vedic
+https://jiocdn.tulnit.fun/mm/play.php?id=a714f077b1d518e2ee8cc95b4c046e43
+#EXTINF:-1 tvg-id="velicham_tv.tamil" tvg-name="Velicham TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fe%2Fe4%2FLogo_of_Velicham_TV.png" tvg-type="News" tvg-language="Tamil" group-title="News",Velicham TV
+https://jiocdn.tulnit.fun/mm/play.php?id=73cbe47c19f8a94483a448ae79a4b416
+#EXTINF:-1 tvg-id="vendhar_tv.tamil" tvg-name="Vendhar TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FVendhar_TV.png" tvg-type="News" tvg-language="Tamil" group-title="News",Vendhar TV
+https://jiocdn.tulnit.fun/mm/play.php?id=ef5c44de32f5fde91ea93719058ab229
+#EXTINF:-1 tvg-id="vip_news.tamil" tvg-name="VIP News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_VIP_NEWS%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",VIP News
+https://jiocdn.tulnit.fun/mm/play.php?id=525478b244316d8173afc9d9efbf424d
+#EXTINF:-1 tvg-id="vissa_tv.tamil" tvg-name="Vissa TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_VISSA_TV%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Vissa TV
+https://jiocdn.tulnit.fun/mm/play.php?id=d5a23b87033111124878a8dc7e2971a7
+#EXTINF:-1 tvg-id="vyas_nic.tamil" tvg-name="Vyas NIC" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fwww.yupptv.com%2Fseo_img%2FUGC_GEC_big.jpg" tvg-type="Education" tvg-language="Tamil" group-title="Education",Vyas NIC
+https://jiocdn.tulnit.fun/mm/play.php?id=f9ca8ee3e03bf7be13f73de6b5ba8ee6
+#EXTINF:-1 tvg-id="wayanad_vision.tamil" tvg-name="Wayanad Vision" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FyF2C4Dt.png" tvg-type="News" tvg-language="Tamil" group-title="News",Wayanad Vision
+https://jiocdn.tulnit.fun/mm/play.php?id=8b32e55126d8ca3f72ab2788f21f9151
+#EXTINF:-1 tvg-id="weatherspy.tamil" tvg-name="Weatherspy" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fi.imgur.com%2FKIEKOt1.png" tvg-type="News" tvg-language="Tamil" group-title="News",Weatherspy
+https://jiocdn.tulnit.fun/mm/play.php?id=0a04189f169bed4164f811d141c8910c
+#EXTINF:-1 tvg-id="win_tv.tamil" tvg-name="Win TV" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FWin_TV.png" tvg-type="News" tvg-language="Tamil" group-title="News",Win TV
+https://jiocdn.tulnit.fun/mm/play.php?id=cc9ec6b9abffcc8fbae460714d626e92
+#EXTINF:-1 tvg-id="yrf_music.tamil" tvg-name="YRF Music" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FYRF_Music.png" tvg-type="Music" tvg-language="Tamil" group-title="Music",YRF Music
+https://jiocdn.tulnit.fun/mm/play.php?id=944529a7ea8a5c4e6876f8c69d4af743
+#EXTINF:-1 tvg-id="zainabia_channel.tamil" tvg-name="Zainabia Channel" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=" tvg-type="Entertainment" tvg-language="Tamil" group-title="Entertainment",Zainabia Channel
+https://jiocdn.tulnit.fun/mm/play.php?id=c9e60e39dcbee7b624428f326c7d03ac
+#EXTINF:-1 tvg-id="zb_bhakti.tamil" tvg-name="ZB Bhakti" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Fzbbhakti.png" tvg-type="Religious" tvg-language="Tamil" group-title="Religious",ZB Bhakti
+https://jiocdn.tulnit.fun/mm/play.php?id=3663c17eb156bdcca66286f18bef5598
+#EXTINF:-1 tvg-id="zb_cartoon.tamil" tvg-name="ZB Cartoon" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Fzbcatun.png" tvg-type="News" tvg-language="Tamil" group-title="News",ZB Cartoon
+https://jiocdn.tulnit.fun/mm/play.php?id=fb6a1ef7d8801a24525b76ffd990748f
+#EXTINF:-1 tvg-id="zb_music.tamil" tvg-name="ZB Music" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Fzbmusic.png" tvg-type="Music" tvg-language="Tamil" group-title="Music",ZB Music
+https://jiocdn.tulnit.fun/mm/play.php?id=7b5a2bde8f54696382dde9dfdde1e531
+#EXTINF:-1 tvg-id="zee_24_kalak.tamil" tvg-name="Zee 24 Kalak" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG00230P1R.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Zee 24 Kalak
+https://jiocdn.tulnit.fun/mm/play.php?id=2f201cd650eeccfcbd114f70e2d2a72b
+#EXTINF:-1 tvg-id="zee_24_taas.tamil" tvg-name="Zee 24 Taas" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG00230LKE.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Zee 24 Taas
+https://jiocdn.tulnit.fun/mm/play.php?id=09f29c8d0b53bb2dbf1a5d6cf7a940fe
+#EXTINF:-1 tvg-id="zee_bharat.tamil" tvg-name="Zee Bharat" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG00230QBL.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Bharat
+https://jiocdn.tulnit.fun/mm/play.php?id=b35e205509e82eccf9add821d4d3e132
+#EXTINF:-1 tvg-id="zee_bihar_jharkhand.tamil" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG00230Y44.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Bihar Jharkhand
+https://jiocdn.tulnit.fun/mm/play.php?id=b69115cf37f6f82b3f460f36b7f02ccb
+#EXTINF:-1 tvg-id="zee_business.tamil" tvg-name="Zee Business" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG00230YYJ.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Business
+https://jiocdn.tulnit.fun/mm/play.php?id=bbb26ea55a5b782dd33c2990388b3bee
+#EXTINF:-1 tvg-id="zee_cine_classic.tamil" tvg-name="Zee Cine Classic" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fd3bd0tgyk368z1.cloudfront.net%2Fzeelg%2FLG%2520logo%2520artwork%2F400x200%2Fzcinecla.png" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Cine Classic
+https://jiocdn.tulnit.fun/mm/play.php?id=4272e2a5f33cd66a91778bbefba3ed15
+#EXTINF:-1 tvg-id="zee_comedy_nation.tamil" tvg-name="Zee Comedy Nation" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fd3bd0tgyk368z1.cloudfront.net%2Fzeelg%2FLG%2520logo%2520artwork%2F400x200%2Fzcomedynation.png" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Comedy Nation
+https://jiocdn.tulnit.fun/mm/play.php?id=b26d54caea23540709528344b59a9d6c
+#EXTINF:-1 tvg-id="zee_delhi_ncr_haryana.tamil" tvg-name="Zee Delhi NCR Haryana" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG0023166M.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Delhi NCR Haryana
+https://jiocdn.tulnit.fun/mm/play.php?id=c2ad3c7c2e941e02b880dcb30969dc10
+#EXTINF:-1 tvg-id="zee_dil_se.tamil" tvg-name="Zee Dil Se" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fd2mxb63djushzm.cloudfront.net%2Fimages%2FZee_Dil_Se.png" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Dil Se
+https://jiocdn.tulnit.fun/mm/play.php?id=be5a143ab45c9df95ea304bbe9cfdeb8
+#EXTINF:-1 tvg-id="zee_horror_nights.tamil" tvg-name="Zee Horror Nights" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fd3bd0tgyk368z1.cloudfront.net%2Fzeelg%2FLG%2520logo%2520artwork%2F400x200%2Fzhornights.png" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Horror Nights
+https://jiocdn.tulnit.fun/mm/play.php?id=ac9023e921a638181c45188ffc6ebd17
+#EXTINF:-1 tvg-id="zee_kannada_news.tamil" tvg-name="Zee Kannada News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2FZee_Kannada_News.png" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Kannada News
+https://jiocdn.tulnit.fun/mm/play.php?id=90678723403438c4e61726542e455d90
+#EXTINF:-1 tvg-id="zee_madhya_pradesh_chhattisgarh.tamil" tvg-name="Zee Madhya Pradesh Chhattisgarh" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG002316X5.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Madhya Pradesh Chhattisgarh
+https://jiocdn.tulnit.fun/mm/play.php?id=01839557837ecce32ee3ff3457b07f48
+#EXTINF:-1 tvg-id="zee_malayalam_news.tamil" tvg-name="Zee Malayalam News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fenglish.cdn.zeenews.com%2Fimages%2Flogo%2Fzee-malayalam-17.svg" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Malayalam News
+https://jiocdn.tulnit.fun/mm/play.php?id=8c7aeeb31b36e298c891e14263f0bb8f
+#EXTINF:-1 tvg-id="zee_news.tamil" tvg-name="Zee News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG0023VWYC.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Zee News
+https://jiocdn.tulnit.fun/mm/play.php?id=9415ed0883aefffe198d806263f50641
+#EXTINF:-1 tvg-id="zee_punjab_haryana_himachal.tamil" tvg-name="Zee Punjab Haryana Himachal" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG0022KHKS.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Punjab Haryana Himachal
+https://jiocdn.tulnit.fun/mm/play.php?id=1db723d378b819018b81b0977b148fa1
+#EXTINF:-1 tvg-id="zee_rajasthan.tamil" tvg-name="Zee Rajasthan" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG00231732.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Rajasthan
+https://jiocdn.tulnit.fun/mm/play.php?id=34280b28a7c1a87d5626587006a89737
+#EXTINF:-1 tvg-id="zee_south_flix.tamil" tvg-name="Zee South Flix" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fd3bd0tgyk368z1.cloudfront.net%2Fzeelg%2FLG%2520logo%2520artwork%2F400x200%2Fzsouthflix.png" tvg-type="News" tvg-language="Tamil" group-title="News",Zee South Flix
+https://jiocdn.tulnit.fun/mm/play.php?id=59266ce66e428d9f6aac494ad65e5fbd
+#EXTINF:-1 tvg-id="zee_telugu_news.tamil" tvg-name="Zee Telugu News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG0023178R.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Telugu News
+https://jiocdn.tulnit.fun/mm/play.php?id=032236462732789c4336f83128312910
+#EXTINF:-1 tvg-id="zee_uttar_pradeshuttarakhand.tamil" tvg-name="Zee Uttar Pradesh/Uttarakhand" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fdtil.tmsimg.com%2Fassets%2FGNLZZGG002317GQ.png%3Flock%3D720x540" tvg-type="News" tvg-language="Tamil" group-title="News",Zee Uttar Pradesh/Uttarakhand
+https://jiocdn.tulnit.fun/mm/play.php?id=f2f155b0ef7e97e20de663f28cd8bc50
+#EXTINF:-1 tvg-id="zillarbarta_news.tamil" tvg-name="ZillarBarta News" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fjiotvimages.cdn.jio.com%2Fdare_images%2Fimages%2Fzillarbarta.png" tvg-type="News" tvg-language="Tamil" group-title="News",ZillarBarta News
+https://jiocdn.tulnit.fun/mm/play.php?id=d2bf4ba91f62428d420ef4e0428a9100
+#EXTINF:-1 tvg-id="zoom_global.tamil" tvg-name="Zoom Global" tvg-logo="https://jiocdn.tulnit.fun/mm/index.php?get_logo=https%3A%2F%2Fxstreamcp-assets-msp.streamready.in%2Fassets%2FLIVETV%2FLIVECHANNEL%2FLIVETV_LIVETVCHANNEL_ZOOM%2Fimages%2FLOGO_HD%2Fimage.png" tvg-type="News" tvg-language="Tamil" group-title="News",Zoom Global
+https://jiocdn.tulnit.fun/mm/play.php?id=e2a2380889c13a5904b817c7f8e0d489
